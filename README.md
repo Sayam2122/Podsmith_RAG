@@ -31,7 +31,7 @@ pip install -r requirements.txt
 # Install Ollama (Local LLM)
 # Windows/Mac: Download from https://ollama.ai/download
 # Linux:
-curl -fsSL https://ollama.ai/install.sh | sh
+
 ```
 
 ### 2. Setup Ollama Models
