@@ -1,0 +1,2288 @@
+================================================================================
+COMPREHENSIVE SESSION ANALYSIS REPORT
+================================================================================
+
+OVERALL SUMMARY:
+----------------------------------------
+Executive Summary: Global summary generation failed: CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+
+Main Themes:
+  1. krishna & chanting
+  2. krishna & chanting
+  3. preaching & preach
+  4. preaching & preach
+  5. symptoms & freed
+  6. symptoms & freed
+  7. symptoms & freed
+  8. preaching & preach
+  9. symptoms & freed
+  10. krishna & chanting
+
+BLOCK-WISE ANALYSIS:
+----------------------------------------
+
+BLOCK 1:
+  Duration: 73.14 seconds
+  Speaker: Speaker 1
+  Word Count: 141
+  Segment Count: 13
+  Topics: krishna & chanting, preaching & preach
+  Keywords: krishna, chanting, able, good, understand
+  Summary: There are two kinds of people who try to perfect their lives, but both are unable to do so. One category, Shilapuravapad explains is that of the empiric philosophers. So they can never understand God.
+  Text Preview: There are two kinds of people who try to perfect their lives, but both are unable to do so. One cate...
+  Segments (13):
+    Segment 0:
+      Time: 0.86s - 9.08s
+      Speaker: Speaker 1
+      Audio Emotion: happy (0.128)
+      Text Emotion: N/A (0.000)
+      Text: There are two kinds of people who try to perfect their lives, but both are unabl...
+    Segment 1:
+      Time: 10.58s - 18.30s
+      Speaker: Speaker 1
+      Audio Emotion: disgust (0.132)
+      Text Emotion: neutral (0.931)
+      Text: One category, Shilapuravapad explains is that of the empiric philosophers who tr...
+    Segment 2:
+      Time: 18.30s - 20.20s
+      Speaker: Speaker 1
+      Audio Emotion: neutral (0.138)
+      Text Emotion: neutral (0.663)
+      Text: and try to understand what is truth....
+    ... and 10 more segments
+------------------------------------------------------------
+
+BLOCK 2:
+  Duration: 39.74 seconds
+  Speaker: Speaker 1
+  Word Count: 76
+  Segment Count: 4
+  Topics: krishna & chanting
+  Keywords: krishna, chanting, able, good, understand
+  Summary: I have realized God. need not understand books and if I can have some emotions for Krishna, then I'm perfect.
+  Text Preview: need not understand books and if I can have some emotions for Krishna, then I'm perfect. I have real...
+  Segments (4):
+    Segment 13:
+      Time: 74.22s - 82.20s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.894)
+      Text: need not understand books and if I can have some emotions for Krishna, then I'm ...
+    Segment 14:
+      Time: 82.20s - 83.80s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: surprise (0.852)
+      Text: I have realized God....
+    Segment 15:
+      Time: 98.06s - 113.98s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.533)
+      Text: ھاں ھاں ھاں ھاں ھاں ھاں ھاں ھاں ھاں ھاں ھاں ھاں ھاں ھاں ھاں ھاں ھاں ھاں ھاں ھاں ...
+    ... and 1 more segments
+------------------------------------------------------------
+
+BLOCK 3:
+  Duration: 76.68 seconds
+  Speaker: Speaker 1
+  Word Count: 161
+  Segment Count: 14
+  Topics: preaching & preach, krishna & chanting
+  Keywords: preaching, preach, devotees, rules regulations, rules
+  Summary: Within Vinah, so Bhakti has to... So here the situation that we see the situation of Milling Kali a great distress of the inhabitants of Dwarka. They were expecting Krishna's arrival at any moment. They could not bear separation
+  Text Preview: There is shruti which means the four Vedas or the openishads. There is smriti which means the purana...
+  Segments (14):
+    Segment 17:
+      Time: 120.70s - 130.44s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.952)
+      Text: There is shruti which means the four Vedas or the openishads. There is smriti wh...
+    Segment 18:
+      Time: 130.80s - 138.52s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: joy (0.661)
+      Text: And there are other bonafile literature, tantras etc. Shruti ismriti puran, adi,...
+    Segment 19:
+      Time: 139.40s - 141.98s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.604)
+      Text: Within Vinah, so Bhakti has to......
+    ... and 11 more segments
+------------------------------------------------------------
+
+BLOCK 4:
+  Duration: 29.66 seconds
+  Speaker: Speaker 1
+  Word Count: 76
+  Segment Count: 6
+  Topics: preaching & preach, symptoms & freed
+  Keywords: preaching, preach, devotees, rules regulations, rules
+  Summary: Pancher atar has been given specially for this age. Vedic rules and regulations cannot be followed very strictly. Some people practice the display of such symptoms.
+  Text Preview: taking things very easily So it is not easy that is why Pancher atar with he has been given speciall...
+  Segments (6):
+    Segment 31:
+      Time: 202.90s - 204.60s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: taking things very easily...
+    Segment 32:
+      Time: 206.22s - 211.30s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.698)
+      Text: So it is not easy that is why Pancher atar with he has been given specially for ...
+    Segment 33:
+      Time: 211.30s - 215.96s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: Where people are very fallen where Vedic rules and regulations cannot be followe...
+    ... and 3 more segments
+------------------------------------------------------------
+
+BLOCK 5:
+  Duration: 39.38 seconds
+  Speaker: Speaker 1
+  Word Count: 81
+  Segment Count: 6
+  Topics: symptoms & freed, body & material
+  Keywords: symptoms, freed, anger, science, attachment
+  Summary: Diskin is burning, the throat is getting choked up and hairs are standing on it and goose bumps. These are the symptoms of XTC. So, is Urjana in XTC? No.
+  Text Preview: So, as soon as they hear Krishna's name, so I am a fee-lex-tracee and I will also roll all the groun...
+  Segments (6):
+    Segment 37:
+      Time: 234.18s - 244.34s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.945)
+      Text: So, as soon as they hear Krishna's name, so I am a fee-lex-tracee and I will als...
+    Segment 38:
+      Time: 244.34s - 246.54s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.894)
+      Text: all the ground and I will have all these things....
+    Segment 39:
+      Time: 246.98s - 253.22s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.857)
+      Text: So some people practice this on an external platform, on a material platform, it...
+    ... and 3 more segments
+------------------------------------------------------------
+
+BLOCK 6:
+  Duration: 36.36 seconds
+  Speaker: Speaker 1
+  Word Count: 94
+  Segment Count: 10
+  Topics: symptoms & freed, krishna & chanting
+  Keywords: symptoms, freed, anger, science, attachment
+  Summary: Love of God is not a sentiment, it is a science. Science means there are specific symptoms of it. So, Urjana is grief-stricken that I have to fight with these people.
+  Text Preview: because of material attachment. So, Urjana is grief-stricken that I have to fight with these people....
+  Segments (10):
+    Segment 43:
+      Time: 273.56s - 281.48s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: sadness (0.936)
+      Text: because of material attachment. So, Urjana is grief-stricken that I have to figh...
+    Segment 44:
+      Time: 281.48s - 281.90s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: disgust (0.758)
+      Text: these people....
+    Segment 45:
+      Time: 284.66s - 290.48s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: fear (0.977)
+      Text: I have to kill my family members, Arjuna is very much worried and he is having a...
+    ... and 7 more segments
+------------------------------------------------------------
+
+BLOCK 7:
+  Duration: 149.92 seconds
+  Speaker: Speaker 1
+  Word Count: 346
+  Segment Count: 33
+  Topics: symptoms & freed, krishna & chanting, body & material
+  Keywords: symptoms, freed, anger, science, attachment
+  Summary: When Krishna explained to Arjuna the fundamental spiritual life and to come to platform of divinity he asked, what are the symptoms of a person who is having this divine consciousness? So what does Lord Krishna describe? From here we can understand whether a person is actually perfect or he is simply having sentimental emotional display. So that is why it is told in the moral instructions that a fool is fool. as long as it does not speak.
+  Text Preview: It is not something just like there are symptoms of any disease. Similarly there are symptoms of a p...
+  Segments (33):
+    Segment 53:
+      Time: 312.30s - 315.16s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.752)
+      Text: It is not something just like there are symptoms of any disease....
+    Segment 54:
+      Time: 316.44s - 319.68s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.911)
+      Text: Similarly there are symptoms of a person having love of God....
+    Segment 55:
+      Time: 322.96s - 325.06s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.947)
+      Text: So this one has to carefully understand....
+    ... and 30 more segments
+------------------------------------------------------------
+
+BLOCK 8:
+  Duration: 39.56 seconds
+  Speaker: Speaker 1
+  Word Count: 95
+  Segment Count: 8
+  Topics: preaching & preach, krishna & chanting
+  Keywords: preaching, preach, devotees, rules regulations, rules
+  Summary: One of their sadhus, so we had one of our devotees, he met them. They also try to follow spiritual life. And we have various practices that they keep more on silence for, many, many days.
+  Text Preview: They also try to follow spiritual life. And we have various practices that they keep more on silence...
+  Segments (8):
+    Segment 86:
+      Time: 463.76s - 465.84s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.955)
+      Text: They also try to follow spiritual life....
+    Segment 87:
+      Time: 468.46s - 472.44s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.889)
+      Text: And we have various practices that they keep more on silence for,...
+    Segment 88:
+      Time: 472.92s - 473.52s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.838)
+      Text: many, many days....
+    ... and 5 more segments
+------------------------------------------------------------
+
+BLOCK 9:
+  Duration: 33.18 seconds
+  Speaker: Speaker 1
+  Word Count: 75
+  Segment Count: 7
+  Topics: symptoms & freed
+  Keywords: symptoms, freed, anger, science, attachment
+  Summary: "As soon as you talk, then you will be caught. Whether you are talking as per the instructions of Krishna or you aretalking something else"
+  Text Preview: I'm sorry. So, because as soon as you talk, you will be caught. And then eventually he was caught wh...
+  Segments (7):
+    Segment 94:
+      Time: 503.32s - 505.52s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: sadness (0.911)
+      Text: I'm sorry....
+    Segment 95:
+      Time: 512.94s - 515.36s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.608)
+      Text: So, because as soon as you talk, you will be caught....
+    Segment 96:
+      Time: 518.98s - 522.00s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: disgust (0.561)
+      Text: And then eventually he was caught when he started talking....
+    ... and 4 more segments
+------------------------------------------------------------
+
+BLOCK 10:
+  Duration: 34.92 seconds
+  Speaker: Speaker 1
+  Word Count: 80
+  Segment Count: 9
+  Topics: krishna & chanting, preaching & preach
+  Keywords: krishna, chanting, able, good, understand
+  Summary: A person who is having Sita Prajya will always talk of Krishna. Krishna is also telling in chattushloki bhagvat gita.
+  Text Preview: A person who is having Sita Prajya, who is having Krishna consciousness, he will always talk of Kris...
+  Segments (9):
+    Segment 101:
+      Time: 537.24s - 544.16s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.882)
+      Text: A person who is having Sita Prajya, who is having Krishna consciousness, he will...
+    Segment 102:
+      Time: 544.16s - 544.98s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.777)
+      Text: talk of Krishna....
+    Segment 103:
+      Time: 546.20s - 547.54s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.702)
+      Text: And what kind of talk of Krishna?...
+    ... and 6 more segments
+------------------------------------------------------------
+
+BLOCK 11:
+  Duration: 149.16 seconds
+  Speaker: Speaker 1
+  Word Count: 301
+  Segment Count: 34
+  Topics: krishna & chanting, symptoms & freed, body & material
+  Keywords: krishna, chanting, able, good, understand
+  Summary: The most important four verses which are the seed of entire bhagvat gita. That yes bhavas saman vitha is important. Man must feel emotions for Krishna but this is very advanced stage. This advanced stage is based on the perfect I am the source of all many festations.
+  Text Preview: The most important four verses which are the seed of entire bhagvat gita. That yes bhavas saman vith...
+  Segments (34):
+    Segment 110:
+      Time: 574.02s - 577.88s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.744)
+      Text: The most important four verses which are the seed of entire bhagvat gita....
+    Segment 111:
+      Time: 578.50s - 580.48s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: That yes bhavas saman vitha is important....
+    Segment 112:
+      Time: 581.00s - 584.68s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.801)
+      Text: Man must feel emotions for Krishna but this is very advanced stage....
+    ... and 31 more segments
+------------------------------------------------------------
+
+BLOCK 12:
+  Duration: 75.88 seconds
+  Speaker: Speaker 1
+  Word Count: 178
+  Segment Count: 12
+  Topics: body & material, preaching & preach, krishna & chanting
+  Keywords: body, material, spiritual, dream, prasadam
+  Summary: Sanatang Goswami could not eat very nicely and he had to drink water from here and there. He developed a wet source on his body which were oozing pus. and thus very foul smell would come.
+  Text Preview: Yes, he gives up desires which are material in nature which are actually mental concoction. So Sanat...
+  Segments (12):
+    Segment 144:
+      Time: 723.18s - 729.98s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: disgust (0.645)
+      Text: Yes, he gives up desires which are material in nature which are actually mental ...
+    Segment 145:
+      Time: 731.78s - 735.82s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.836)
+      Text: So Sanatang Goswami when he traveled to meet Chetanema Aprabhu, he went from Din...
+    Segment 146:
+      Time: 736.76s - 742.64s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.595)
+      Text: He went and then he had to cross jungle forest....
+    ... and 9 more segments
+------------------------------------------------------------
+
+BLOCK 13:
+  Duration: 190.96 seconds
+  Speaker: Speaker 1
+  Word Count: 367
+  Segment Count: 35
+  Topics: preaching & preach, body & material, krishna & chanting
+  Keywords: preaching, preach, devotees, rules regulations, rules
+  Summary: Chetanema Apra was living with Haridas Thakur. He discussed with Jagadanand Pandit, another very close associate of Chhatanema Prabhu, he is incarnation of Satyabhama, one of the principal queens of Krishna.
+  Text Preview: and embracing him because Sanatana Goswami is very advanced devotee. And as soon as Chetanema Apra w...
+  Segments (35):
+    Segment 156:
+      Time: 799.06s - 804.90s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: and embracing him because Sanatana Goswami is very advanced devotee. And as soon...
+    Segment 157:
+      Time: 804.90s - 813.40s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: sadness (0.915)
+      Text: see him, Chetanema Apra would embrace him. And Sanatana Goswami would feel very ...
+    Segment 158:
+      Time: 813.40s - 813.98s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: can not even......
+    ... and 32 more segments
+------------------------------------------------------------
+
+BLOCK 14:
+  Duration: 39.54 seconds
+  Speaker: Speaker 1
+  Word Count: 108
+  Segment Count: 12
+  Topics: body & material, symptoms & freed
+  Keywords: body, material, spiritual, dream, prasadam
+  Summary: When I embrace your body, your body is completely spiritual in nature. It has got no material contamination. You can purify entire universe. What to speak of your body getting contaminated? created. So, thus this is called spiritual vision
+  Text Preview: when I touch you and embrace you. Rather, I feel the smell of sandalwood. When I embrace your body, ...
+  Segments (12):
+    Segment 191:
+      Time: 990.02s - 991.74s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: joy (0.965)
+      Text: when I touch you and embrace you....
+    Segment 192:
+      Time: 992.22s - 994.92s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: disgust (0.960)
+      Text: Rather, I feel the smell of sandalwood....
+    Segment 193:
+      Time: 995.50s - 998.82s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: When I embrace your body, your body is completely spiritual in nature....
+    ... and 9 more segments
+------------------------------------------------------------
+
+BLOCK 15:
+  Duration: 73.60 seconds
+  Speaker: Speaker 1
+  Word Count: 198
+  Segment Count: 16
+  Topics: body & material, krishna & chanting
+  Keywords: body, material, spiritual, dream, prasadam
+  Summary: Chul no. Dhrishtaisvabhava janitay vapuchashchaloke. Vapuchashchach doshe vapu means body. One will find doshe falls in the body of a pure vashnava.
+  Text Preview: He is an Athan Goswami, you are telling his liberated person. He is having sinful life, he is having...
+  Segments (16):
+    Segment 203:
+      Time: 1029.60s - 1031.92s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.814)
+      Text: He is an Athan Goswami, you are telling his liberated person....
+    Segment 204:
+      Time: 1032.34s - 1035.80s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: disgust (0.900)
+      Text: He is having sinful life, he is having sinful reactions on his body....
+    Segment 205:
+      Time: 1035.80s - 1037.92s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.509)
+      Text: see how you can tell is eternal association....
+    ... and 13 more segments
+------------------------------------------------------------
+
+BLOCK 16:
+  Duration: 36.64 seconds
+  Speaker: Speaker 1
+  Word Count: 90
+  Segment Count: 6
+  Topics: body & material, symptoms & freed
+  Keywords: body, material, spiritual, dream, prasadam
+  Summary: Chetanema Apra: I am getting the fragrance of sandalwood from your body. And the side do not feel at all what you are talking, the pus and the contamination. It is completely pure in nature.
+  Text Preview: But on material platform, one might find material faults, but Chetanema Apra was telling that, I am ...
+  Segments (6):
+    Segment 219:
+      Time: 1103.86s - 1109.62s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.929)
+      Text: But on material platform, one might find material faults, but Chetanema Apra was...
+    Segment 220:
+      Time: 1109.62s - 1114.72s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: that, I am getting the fragrance of sandalwood from your body in body completely...
+    Segment 221:
+      Time: 1115.38s - 1119.50s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: disgust (0.953)
+      Text: And the side do not feel at all what you are talking, the pus and the contaminat...
+    ... and 3 more segments
+------------------------------------------------------------
+
+BLOCK 17:
+  Duration: 36.12 seconds
+  Speaker: Speaker 1
+  Word Count: 114
+  Segment Count: 9
+  Topics: body & material, krishna & chanting
+  Keywords: body, material, spiritual, dream, prasadam
+  Summary: We are not on the spiritual platform, that is why we have to see what suits our body. We may avoid certain things even though it is prasadam. This is pungent, this is chile, this
+  Text Preview: So because it is prasadam coming from Krishna should we still eat it? So, for our part to leave, it ...
+  Segments (9):
+    Segment 225:
+      Time: 1141.00s - 1144.52s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.830)
+      Text: So because it is prasadam coming from Krishna should we still eat it?...
+    Segment 226:
+      Time: 1145.58s - 1149.82s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.886)
+      Text: So, for our part to leave, it is completely spiritual, but as long as we are not...
+    Segment 227:
+      Time: 1153.28s - 1158.32s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.956)
+      Text: Because we are not on the spiritual platform, that is why we have to see what su...
+    ... and 6 more segments
+------------------------------------------------------------
+
+BLOCK 18:
+  Duration: 77.04 seconds
+  Speaker: Speaker 1
+  Word Count: 146
+  Segment Count: 18
+  Topics: body & material, does & dream
+  Keywords: body, material, spiritual, dream, prasadam
+  Summary: Mahaprabhu: Even though I consider okay, from the material perspective, let's say your body is not spiritual, then even from theMaterial perspective, I am sannyasi. And a sannyasia is not supposed to
+  Text Preview: exalted behavior. And then Mahaprabhu explained another important concept. Even though I consider ok...
+  Segments (18):
+    Segment 234:
+      Time: 1183.20s - 1190.36s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: exalted behavior. And then Mahaprabhu explained another important concept. Even ...
+    Segment 235:
+      Time: 1190.36s - 1196.26s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.721)
+      Text: okay, from the material perspective, let's say your body is not spiritual, then ...
+    Segment 236:
+      Time: 1196.26s - 1202.18s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.801)
+      Text: the material perspective, I am sannyasi. And a sannyasi is not supposed to discr...
+    ... and 15 more segments
+------------------------------------------------------------
+
+BLOCK 19:
+  Duration: 36.90 seconds
+  Speaker: Speaker 1
+  Word Count: 86
+  Segment Count: 3
+  Topics: body & material, krishna & chanting
+  Keywords: krishna, chanting, able, good, understand
+  Summary: "So good and bad, something good, something favourable, something is unfavourable. So good andbad, something bad and good, good, favourable, unf favourable"
+  Text Preview: बादाँ भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भ...
+  Segments (3):
+    Segment 252:
+      Time: 1262.24s - 1289.98s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: बादाँ भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी...
+    Segment 253:
+      Time: 1289.96s - 1289.96s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: ...
+    Segment 254:
+      Time: 1294.26s - 1299.14s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: disgust (0.521)
+      Text: So good and bad, something is good, something is favourable, something is unfavo...
+------------------------------------------------------------
+
+BLOCK 20:
+  Duration: 38.64 seconds
+  Speaker: Speaker 1
+  Word Count: 90
+  Segment Count: 8
+  Topics: body & material, does & dream
+  Keywords: body, material, spiritual, dream, prasadam
+  Summary: When I am in illusion, I am this body. It's only because of illusion of dream. This is also dream, gross dream. So that is why our desires are called Manogathan, Mental Concoction. In a
+  Text Preview: This is only felt in illusion. When I am in illusion, I am this body. It's only because of illusion ...
+  Segments (8):
+    Segment 255:
+      Time: 1299.54s - 1302.96s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.775)
+      Text: This is only felt in illusion. When I am in illusion, I am this body....
+    Segment 256:
+      Time: 1303.82s - 1307.92s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: disgust (0.969)
+      Text: It's only because of illusion of dream. This is also dream, gross dream....
+    Segment 257:
+      Time: 1309.62s - 1313.64s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.930)
+      Text: So that is why our desires are called Manogathan, Mental Concoction....
+    ... and 5 more segments
+------------------------------------------------------------
+
+BLOCK 21:
+  Duration: 34.64 seconds
+  Speaker: Speaker 1
+  Word Count: 95
+  Segment Count: 6
+  Topics: body & material, does & dream, symptoms & freed
+  Keywords: body, material, spiritual, dream, prasadam
+  Summary: Chetanema, a Sannyasi, is supposed to be on a liberated platform. So on liberated platform, I cannot perceive something as favourable, another thing as unfavourable. How can I avoid your body, seeing that
+  Text Preview: There is no desire to get something, there is no desire to avoid anything. So thus Chetanema, Prabhu...
+  Segments (6):
+    Segment 263:
+      Time: 1338.80s - 1343.34s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.782)
+      Text: There is no desire to get something, there is no desire to avoid anything....
+    Segment 264:
+      Time: 1344.00s - 1349.40s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.884)
+      Text: So thus Chetanema, Prabhu told, I am Sannyasi, a Sannyasi supposed to be on a li...
+    Segment 265:
+      Time: 1350.60s - 1356.80s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: disgust (0.878)
+      Text: So on liberated platform, I cannot perceive something as favourable, another thi...
+    ... and 3 more segments
+------------------------------------------------------------
+
+BLOCK 22:
+  Duration: 36.52 seconds
+  Speaker: Speaker 1
+  Word Count: 96
+  Segment Count: 9
+  Topics: does & dream, krishna & chanting, body & material
+  Keywords: does, dream, temporary, happy, attachment
+  Summary: Aatmannevaatmanadushta sithaprakjyaastadhochete, such a person is satisfied in his own self. Man is not disturbed by Dukha or Sukha.
+  Text Preview: Aatmannevaatmanadushta sithaprakjyaastadhochete, such a person is satisfied in his own self. There i...
+  Segments (9):
+    Segment 269:
+      Time: 1377.24s - 1381.34s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: Aatmannevaatmanadushta sithaprakjyaastadhochete, such a person is satisfied in h...
+    Segment 270:
+      Time: 1381.34s - 1381.66s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: self....
+    Segment 271:
+      Time: 1381.76s - 1384.84s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.600)
+      Text: There is nothing to gain, nothing to lose for a devotee....
+    ... and 6 more segments
+------------------------------------------------------------
+
+BLOCK 23:
+  Duration: 39.54 seconds
+  Speaker: Speaker 1
+  Word Count: 99
+  Segment Count: 13
+  Topics: does & dream, body & material
+  Keywords: does, dream, temporary, happy, attachment
+  Summary: So-called Misri does not affect a sthetaprakya. In a situation of happiness one does not become happy. If somebody tells us in the dream tonight you are going to be very, very rich. Shall we
+  Text Preview: So-called Misri does not affect a sthetaprakya and in a situation of happiness one does not become h...
+  Segments (13):
+    Segment 278:
+      Time: 1414.84s - 1421.46s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.796)
+      Text: So-called Misri does not affect a sthetaprakya and in a situation of happiness o...
+    Segment 279:
+      Time: 1421.46s - 1422.08s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: joy (0.898)
+      Text: become happy....
+    Segment 280:
+      Time: 1424.28s - 1428.68s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.779)
+      Text: If somebody tells us in the dream tonight you are going to be very, very rich....
+    ... and 10 more segments
+------------------------------------------------------------
+
+BLOCK 24:
+  Duration: 30.74 seconds
+  Speaker: Speaker 1
+  Word Count: 75
+  Segment Count: 11
+  Topics: does & dream
+  Keywords: does, dream, temporary, happy, attachment
+  Summary: Anadwigna Manaha: Mind is not disturbed in any misery. V. Teraagabhaya Krodha, Sittadhir Munir Chate: One does not desire material happiness.
+  Text Preview: become happy or lament. so that should be the situation of a person. Why should not aspire for any m...
+  Segments (11):
+    Segment 291:
+      Time: 1455.24s - 1456.12s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: sadness (0.982)
+      Text: become happy or lament....
+    Segment 292:
+      Time: 1456.12s - 1457.98s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.719)
+      Text: so that should be the situation of a person....
+    Segment 293:
+      Time: 1459.28s - 1461.30s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: anger (0.596)
+      Text: Why should not aspire for any material gain?...
+    ... and 8 more segments
+------------------------------------------------------------
+
+BLOCK 25:
+  Duration: 37.76 seconds
+  Speaker: Speaker 1
+  Word Count: 106
+  Segment Count: 8
+  Topics: does & dream, symptoms & freed, krishna & chanting
+  Keywords: does, dream, temporary, happy, attachment
+  Summary: In illusion I am thinking, the soul in this dress belongs to me. It does not, we all belong to Krishna. This is my father, my children, my mother, my dog, my cat. My understood is nothing is
+  Text Preview: have any attachment. This is my father, my children, my mother, my dog, my cat. My understood is not...
+  Segments (8):
+    Segment 302:
+      Time: 1491.26s - 1497.34s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: have any attachment. This is my father, my children, my mother, my dog, my cat. ...
+    Segment 303:
+      Time: 1497.34s - 1502.96s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.811)
+      Text: understood is nothing is mine. These are all simply temporary external dresses. ...
+    Segment 304:
+      Time: 1502.96s - 1507.54s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.591)
+      Text: illusion I am thinking, the soul in this dress belongs to me. It does not, we al...
+    ... and 5 more segments
+------------------------------------------------------------
+
+BLOCK 26:
+  Duration: 37.12 seconds
+  Speaker: Speaker 1
+  Word Count: 92
+  Segment Count: 10
+  Topics: symptoms & freed, does & dream
+  Keywords: symptoms, freed, anger, science, attachment
+  Summary: Prabhupāda: We are fearful because of attachment here in this world. "I'm eternal. Where is the question of fear for a devotee? I'm eternal"
+  Text Preview: We are fearful because of attachment here in this world. I will lose my objects of attachment, my si...
+  Segments (10):
+    Segment 310:
+      Time: 1529.68s - 1532.30s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: fear (0.978)
+      Text: We are fearful because of attachment here in this world....
+    Segment 311:
+      Time: 1532.54s - 1538.08s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: anger (0.613)
+      Text: I will lose my objects of attachment, my situation of attachment, my property, m...
+    Segment 312:
+      Time: 1538.24s - 1538.70s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: surprise (0.792)
+      Text: my people....
+    ... and 7 more segments
+------------------------------------------------------------
+
+BLOCK 27:
+  Duration: 37.42 seconds
+  Speaker: Speaker 1
+  Word Count: 77
+  Segment Count: 13
+  Topics: symptoms & freed, body & material
+  Keywords: symptoms, freed, anger, science, attachment
+  Summary: Asitaprajya devotee does not have any money. Where is the question of anger? There is no question of material desires, not getting fulfilled. Thus he is freed from anger. So Raghav Bhaya Kro
+  Text Preview: Asitaprajya devotee does not have any money. Where is the question of anger? There is no question of...
+  Segments (13):
+    Segment 320:
+      Time: 1568.14s - 1569.98s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: sadness (0.508)
+      Text: Asitaprajya devotee does not have any money....
+    Segment 321:
+      Time: 1571.04s - 1572.16s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: anger (0.847)
+      Text: Where is the question of anger?...
+    Segment 322:
+      Time: 1573.64s - 1575.80s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.783)
+      Text: There is no question of material desires,...
+    ... and 10 more segments
+------------------------------------------------------------
+
+BLOCK 28:
+  Duration: 72.64 seconds
+  Speaker: Speaker 1
+  Word Count: 150
+  Segment Count: 17
+  Topics: krishna & chanting, symptoms & freed
+  Keywords: krishna, chanting, able, good, understand
+  Summary: In the Vishnu Purand, work is defined as an activity which gives you detachment. Work is not something which will entangle you. Work means karma means that activity which brings you yanna bhandhaya, karma yanna
+  Text Preview: He was without attachment. Sarvatrana is naha. Anabhisneha is naha. So that's Krishna is repeating o...
+  Segments (17):
+    Segment 333:
+      Time: 1606.10s - 1616.32s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.918)
+      Text: He was without attachment. Sarvatrana is naha. Anabhisneha is naha. So that's Kr...
+    Segment 334:
+      Time: 1616.32s - 1625.00s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: is repeating over and over again many times without attachment, without attachme...
+    Segment 335:
+      Time: 1625.00s - 1625.98s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.762)
+      Text: the purpose of all you....
+    ... and 14 more segments
+------------------------------------------------------------
+
+BLOCK 29:
+  Duration: 35.82 seconds
+  Speaker: Speaker 1
+  Word Count: 72
+  Segment Count: 8
+  Topics: krishna & chanting
+  Keywords: krishna, chanting, able, good, understand
+  Summary: Shubh and Ashubh does not matter for a devotee Navinandati, not Vesti, he does not rejoice. is firmly fixed in perfect knowledge. you design anything good as Tatt tatt prapishubhash
+  Text Preview: you design anything good as Tatt tatt prapishubhashwam there is nothing Shubh and Ashubh everything ...
+  Segments (8):
+    Segment 350:
+      Time: 1678.74s - 1681.68s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.805)
+      Text: you design anything good as...
+    Segment 351:
+      Time: 1686.68s - 1691.22s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: Tatt tatt prapishubhashwam there is nothing Shubh and Ashubh everything is Ashub...
+    Segment 352:
+      Time: 1691.22s - 1695.70s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.585)
+      Text: Everything is in auspicious because we have forgotten our real situation of ecst...
+    ... and 5 more segments
+------------------------------------------------------------
+
+BLOCK 30:
+  Duration: 72.04 seconds
+  Speaker: Speaker 1
+  Word Count: 175
+  Segment Count: 19
+  Topics: krishna & chanting
+  Keywords: krishna, chanting, able, good, understand
+  Summary: One who is able to withdraw his senses from sense objects as he tortoises, is limbs within the shell, is to be understood as truly situated in knowledge. So when has to use Arjuna used his senses to fight. So, this is how devotee uses
+  Text Preview: Yadah sam harate chayam kuru mo angani vasarvasah indriyan indriyarthe biyastasya pragya pratishta t...
+  Segments (19):
+    Segment 358:
+      Time: 1721.64s - 1728.92s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: Yadah sam harate chayam kuru mo angani vasarvasah indriyan indriyarthe biyastasy...
+    Segment 359:
+      Time: 1728.92s - 1734.62s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: tha. So what does a person do? He simply sleeps? Let me not act for getting anyt...
+    Segment 360:
+      Time: 1734.62s - 1737.22s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: fear (0.694)
+      Text: a life, let me not act to avoid anything, no he acts....
+    ... and 16 more segments
+------------------------------------------------------------
+
+BLOCK 31:
+  Duration: 75.06 seconds
+  Speaker: Speaker 1
+  Word Count: 134
+  Segment Count: 11
+  Topics: krishna & chanting, preaching & preach
+  Keywords: krishna, chanting, able, good, understand
+  Summary: If one understands the philosophy very nicely, understands the position of Krishna and then follows, then in this life one can attain perfection. But this understanding is not very easy. That is why the first loka of Bhagavad G
+  Text Preview: यह भी भाँवावा समन्विता हावावावावावावावावावावावावावावावावावावावावावावावावावावावावावावावावावावावावावाव...
+  Segments (11):
+    Segment 377:
+      Time: 1798.98s - 1821.24s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: यह भी भाँवावा समन्विता हावावावावावावावावावावावावावावावावावावावावावावावावावावावाव...
+    Segment 378:
+      Time: 1821.24s - 1821.90s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.712)
+      Text: dhakti which is not...
+    Segment 379:
+      Time: 1825.60s - 1831.48s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.947)
+      Text: they also cannot. They will attain after a long time because they are on the pat...
+    ... and 8 more segments
+------------------------------------------------------------
+
+BLOCK 32:
+  Duration: 36.58 seconds
+  Speaker: Speaker 1
+  Word Count: 69
+  Segment Count: 10
+  Topics: krishna & chanting
+  Keywords: krishna, chanting, able, good, understand
+  Summary: There is nobody like Dritrastra. He is spoken only one shloka. And his position is also very, very unique.
+  Text Preview: What is the first loka? Who has spoken first loka? Dritrastra. He is spoken only one shloka. And his...
+  Segments (10):
+    Segment 388:
+      Time: 1874.04s - 1877.22s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.581)
+      Text: What is the first loka? Who has spoken first loka?...
+    Segment 389:
+      Time: 1878.94s - 1880.80s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.930)
+      Text: Dritrastra. He is spoken only one shloka....
+    Segment 390:
+      Time: 1882.06s - 1885.38s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.739)
+      Text: And his position is also very, very unique. There is nobody like Dritrastra....
+    ... and 7 more segments
+------------------------------------------------------------
+
+BLOCK 33:
+  Duration: 28.54 seconds
+  Speaker: Speaker 1
+  Word Count: 78
+  Segment Count: 5
+  Topics: krishna & chanting
+  Keywords: krishna, chanting, able, good, understand
+  Summary: Even though they have assembled on Kurukshetra, which is Dharmakshetra where Lord Krishna is personally present, he wants what should happen? And the people who are dear to Krishna should lose. And my son should
+  Text Preview: Even though they have assembled on Kurukshetra, which is Dharmakshetra where Lord Krishna is persona...
+  Segments (5):
+    Segment 398:
+      Time: 1911.82s - 1916.28s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.517)
+      Text: Even though they have assembled on Kurukshetra, which is Dharmakshetra where Lor...
+    Segment 399:
+      Time: 1917.66s - 1924.78s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: he wants what should happen? And the people who are dear to Krishna should lose....
+    Segment 400:
+      Time: 1925.28s - 1930.22s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.851)
+      Text: So he is very eager. What did they do? Did they fight or not? Because Krishna wa...
+    ... and 2 more segments
+------------------------------------------------------------
+
+BLOCK 34:
+  Duration: 39.72 seconds
+  Speaker: Speaker 1
+  Word Count: 95
+  Segment Count: 11
+  Topics: krishna & chanting
+  Keywords: krishna, chanting, able, good, understand
+  Summary: Dhritarastra is a person who knows that Krishna is God. He is very anxious. Just like the materialist becomes anxious. Many sees. There are overcast conditions. cricket match me or may not happen did the
+  Text Preview: He is very anxious. Just like the materialist becomes anxious. Many sees. There are overcast conditi...
+  Segments (11):
+    Segment 403:
+      Time: 1946.88s - 1954.66s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: fear (0.738)
+      Text: He is very anxious. Just like the materialist becomes anxious. Many sees. There ...
+    Segment 404:
+      Time: 1954.66s - 1957.98s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: cricket match me or may not happen did the player not?...
+    Segment 405:
+      Time: 1959.64s - 1960.78s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: fear (0.894)
+      Text: He's very anxious....
+    ... and 8 more segments
+------------------------------------------------------------
+
+BLOCK 35:
+  Duration: 31.38 seconds
+  Speaker: Speaker 1
+  Word Count: 84
+  Segment Count: 6
+  Topics: krishna & chanting, preaching & preach
+  Keywords: krishna, chanting, able, good, understand
+  Summary: Most of us in Krishna consciousness movement continue like Dhritarastra. Even though we have understood that Krishna is God, we continue like Duryodhana. At least we are not Duryoda. So we are like
+  Text Preview: then I will start ended up with Krishna. Krishna. So this is a situation of most of us in Krishna co...
+  Segments (6):
+    Segment 414:
+      Time: 1986.60s - 1988.28s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.876)
+      Text: then I will start ended up with Krishna....
+    Segment 415:
+      Time: 1988.00s - 1994.44s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.859)
+      Text: Krishna. So this is a situation of most of us in Krishna consciousness movement....
+    Segment 416:
+      Time: 1994.44s - 2001.40s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.924)
+      Text: we have understood that Krishna is God, we continue like Dhritarastra. Yes, I kn...
+    ... and 3 more segments
+------------------------------------------------------------
+
+BLOCK 36:
+  Duration: 36.80 seconds
+  Speaker: Speaker 1
+  Word Count: 118
+  Segment Count: 9
+  Topics: krishna & chanting, body & material, symptoms & freed
+  Keywords: krishna, chanting, able, good, understand
+  Summary: Tarsha could not surrender to Krishna even though he is knowing Krishna is God, he was having material calculation. And so we should try to open our eyes, open our spiritual eyes and it is not easy.
+  Text Preview: And so we should try to open our eyes, open our spiritual eyes and it is not easy. Why this Tarsha c...
+  Segments (9):
+    Segment 420:
+      Time: 2024.52s - 2029.68s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.689)
+      Text: And so we should try to open our eyes, open our spiritual eyes and it is not eas...
+    Segment 421:
+      Time: 2030.46s - 2034.26s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: Why this Tarsha could not surrender to Krishna? Even though he is knowing Krishn...
+    Segment 422:
+      Time: 2034.82s - 2040.00s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: surprise (0.795)
+      Text: he was having material calculation. Too much, why he was having this thing? Beca...
+    ... and 6 more segments
+------------------------------------------------------------
+
+BLOCK 37:
+  Duration: 38.64 seconds
+  Speaker: Speaker 1
+  Word Count: 91
+  Segment Count: 9
+  Topics: preaching & preach, krishna & chanting
+  Keywords: preaching, preach, devotees, rules regulations, rules
+  Summary: Only one who has got mercy of the spiritual master. Master. Sansaara dhavanalli l-loka, atranana ya karone ghanada, only there is no other way.
+  Text Preview: So who can come out of this duality? Only one who has got mercy of the spiritual master. Master. San...
+  Segments (9):
+    Segment 429:
+      Time: 2064.38s - 2066.24s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.623)
+      Text: So who can come out of this duality?...
+    Segment 430:
+      Time: 2069.48s - 2072.42s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.831)
+      Text: Only one who has got mercy of the spiritual master....
+    Segment 431:
+      Time: 2072.00s - 2072.42s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.629)
+      Text: Master....
+    ... and 6 more segments
+------------------------------------------------------------
+
+BLOCK 38:
+  Duration: 25.72 seconds
+  Speaker: Speaker 1
+  Word Count: 73
+  Segment Count: 7
+  Topics: krishna & chanting, preaching & preach
+  Keywords: krishna, chanting, able, good, understand
+  Summary: Prabhupāda cots Vishnā Chakravartī Thakur, that what is bhakti, by which we can please the spiritual master. One can stay in one place silently and chant Hare Krishna and
+  Text Preview: Prabhupāda cots Vishnā Chakravartī Thakur, that what is bhakti, what is actual bhakti by which we ca...
+  Segments (7):
+    Segment 438:
+      Time: 2104.14s - 2106.20s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.678)
+      Text: Prabhupāda cots Vishnā Chakravartī Thakur,...
+    Segment 439:
+      Time: 2106.46s - 2110.56s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.888)
+      Text: that what is bhakti, what is actual bhakti by which we can please the spiritual ...
+    Segment 440:
+      Time: 2112.16s - 2114.24s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.938)
+      Text: So Vishnā Chakravartī Thakur explains,...
+    ... and 4 more segments
+------------------------------------------------------------
+
+BLOCK 39:
+  Duration: 39.46 seconds
+  Speaker: Speaker 1
+  Word Count: 127
+  Segment Count: 11
+  Topics: krishna & chanting
+  Keywords: krishna, chanting, able, good, understand
+  Summary: The full text of the book will be published in full length next week. The book will also be released in its second edition on September 6. The first edition will be released on September 8.
+  Text Preview: यह भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भ...
+  Segments (11):
+    Segment 445:
+      Time: 2141.72s - 2157.98s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: यह भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी भी...
+    Segment 446:
+      Time: 2159.26s - 2162.30s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.650)
+      Text: ہر دستھاکو ہر سگویں دو تو دور...
+    Segment 447:
+      Time: 2162.30s - 2165.10s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.595)
+      Text: ان بگیگیں پیپل ٹرینٹو کنونس پیپل...
+    ... and 8 more segments
+------------------------------------------------------------
+
+BLOCK 40:
+  Duration: 31.94 seconds
+  Speaker: Speaker 1
+  Word Count: 64
+  Segment Count: 6
+  Topics: krishna & chanting
+  Keywords: krishna, chanting, able, good, understand
+  Summary: Vishwanath Chakrava Thiyuta Kura X Plains: "Bhakti is a fight, it is a war" "If I think comfortably I can live and I can advance and so on," he says.
+  Text Preview: انت فیس اپوزیں المنس Vishwanath Chakrava Thiyuta Kura X Plains Sometimes when we face opposing eleme...
+  Segments (6):
+    Segment 456:
+      Time: 2181.86s - 2183.72s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.555)
+      Text: انت فیس اپوزیں المنس...
+    Segment 457:
+      Time: 2183.72s - 2185.92s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.783)
+      Text: Vishwanath Chakrava Thiyuta Kura X Plains...
+    Segment 458:
+      Time: 2193.44s - 2198.84s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: Sometimes when we face opposing elements, we may face defeat, our arguments will...
+    ... and 3 more segments
+------------------------------------------------------------
+
+BLOCK 41:
+  Duration: 37.00 seconds
+  Speaker: Speaker 1
+  Word Count: 43
+  Segment Count: 6
+  Topics: krishna & chanting
+  Keywords: krishna, chanting, able, good, understand
+  Summary: Three hours, three and a half hours they will complete their sixteen rounds. Very peacefully they will sit down close their eyes and they'll finish. Wonderful chanting. And they are not dosing off.
+  Text Preview: यह पर तेखेखे ने ने नहावावावावावावावावावावावावावावावावावावावावावावावावावावावावावावावावावावावावावावावा...
+  Segments (6):
+    Segment 462:
+      Time: 2222.88s - 2241.24s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.541)
+      Text: यह पर तेखेखे ने ने नहावावावावावावावावावावावावावावावावावावावावावावावावावावावावावा...
+    Segment 463:
+      Time: 2241.24s - 2241.98s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.599)
+      Text: what is wood chandle...
+    Segment 464:
+      Time: 2246.84s - 2249.84s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.912)
+      Text: three hours, three and a half hours they will complete their sixteen rounds....
+    ... and 3 more segments
+------------------------------------------------------------
+
+BLOCK 42:
+  Duration: 64.74 seconds
+  Speaker: Speaker 1
+  Word Count: 170
+  Segment Count: 17
+  Topics: krishna & chanting, preaching & preach
+  Keywords: krishna, chanting, able, good, understand
+  Summary: Chanting Hare Krishna will give us everything that we want, says Bhakti. Your mind will be very peaceful. You will be floating by chanting Hare Krishna. But this is very different from the real effect.
+  Text Preview: It is not that they are chanting very peacefully hearing each and every word very nicely. but the Bu...
+  Segments (17):
+    Segment 468:
+      Time: 2260.36s - 2264.92s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.920)
+      Text: It is not that they are chanting very peacefully hearing each and every word ver...
+    Segment 469:
+      Time: 2268.40s - 2269.98s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: but the...
+    Segment 470:
+      Time: 2269.34s - 2273.82s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.587)
+      Text: But they also could not surrender, could not advance....
+    ... and 14 more segments
+------------------------------------------------------------
+
+BLOCK 43:
+  Duration: 36.76 seconds
+  Speaker: Speaker 1
+  Word Count: 89
+  Segment Count: 7
+  Topics: krishna & chanting, preaching & preach
+  Keywords: krishna, chanting, able, good, understand
+  Summary: Some devotees are able to very completely very much absorb, although that is rare, but that is possible by practice. Such devotees also were doing so much of chanting, but we have seen they were not eager to render service.
+  Text Preview: So thus some devotees are able to very completely very much absorb, although that is rare, but that ...
+  Segments (7):
+    Segment 485:
+      Time: 2336.60s - 2342.84s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.945)
+      Text: So thus some devotees are able to very completely very much absorb, although tha...
+    Segment 486:
+      Time: 2344.72s - 2352.26s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.939)
+      Text: But such devotees also were doing so much of chanting, but we have seen they wer...
+    Segment 487:
+      Time: 2352.26s - 2353.98s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.798)
+      Text: Yes, they were not very much....
+    ... and 4 more segments
+------------------------------------------------------------
+
+BLOCK 44:
+  Duration: 189.06 seconds
+  Speaker: Speaker 1
+  Word Count: 494
+  Segment Count: 53
+  Topics: krishna & chanting, preaching & preach, body & material
+  Keywords: krishna, chanting, able, good, understand
+  Summary: Manu preaches very clearly it is told, na chata smath manu but who preaches nobody preaches. Haridas Thakura before he took to chanting, even door to door, requested people to chant. He met with unfavorable elements. So Vishnatha Chakravaarti Thakura explains, this is cultivation of Krishna consciousness. This is the Tapasya that we have to take.
+  Text Preview: working very hard to serve Krishna and they were able to advance very nice and able to to develop ex...
+  Segments (53):
+    Segment 492:
+      Time: 2373.56s - 2379.48s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: joy (0.717)
+      Text: working very hard to serve Krishna and they were able to advance very nice and a...
+    Segment 493:
+      Time: 2379.48s - 2381.48s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: surprise (0.631)
+      Text: to develop extraordinary taste also....
+    Segment 494:
+      Time: 2384.78s - 2389.40s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.899)
+      Text: So, thus Prabhupātāl artificially, we cannot and we should not try to become Kṛṣ...
+    ... and 50 more segments
+------------------------------------------------------------
+
+BLOCK 45:
+  Duration: 94.88 seconds
+  Speaker: Speaker 2
+  Word Count: 256
+  Segment Count: 20
+  Topics: krishna & chanting, preaching & preach, body & material
+  Keywords: krishna, chanting, able, good, understand
+  Summary: When preaching fails, it is mainly because of lack of our spiritual potency. Then when works hard, takes care of his spiritual life in this way. So this is the secret. Go out, preach, try to convince people, even though nobody's convinced does not matter. We will advance, we will be able to draw mercy.
+  Text Preview: Because when preaching fails, it is mainly because of lack of our spiritual potency. So then I will ...
+  Segments (20):
+    Segment 545:
+      Time: 2565.22s - 2570.56s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: disgust (0.505)
+      Text: Because when preaching fails, it is mainly because of lack of our spiritual pote...
+    Segment 546:
+      Time: 2571.16s - 2574.52s
+      Speaker: Speaker 2
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.915)
+      Text: So then I will understand what is my spiritual potency not able to make one devo...
+    Segment 547:
+      Time: 2575.10s - 2577.90s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.796)
+      Text: Then when works hard, takes care of his spiritual life in this way....
+    ... and 17 more segments
+------------------------------------------------------------
+
+BLOCK 46:
+  Duration: 17.98 seconds
+  Speaker: Speaker 2
+  Word Count: 56
+  Segment Count: 8
+  Topics: body & material, krishna & chanting, preaching & preach
+  Keywords: body, material, spiritual, dream, prasadam
+  Summary: "As soon as Krishna's sound is conscious, immediately they became very enthused and jubilant. So we'll see further how they receive Lord Krishna in the kingdom"
+  Text Preview: will come. in this way there are In this way they are having apparent depression and melancholia, bu...
+  Segments (8):
+    Segment 565:
+      Time: 2660.10s - 2660.52s
+      Speaker: Speaker 2
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.799)
+      Text: will come....
+    Segment 566:
+      Time: 2661.04s - 2661.98s
+      Speaker: Speaker 2
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.760)
+      Text: in this way there are...
+    Segment 567:
+      Time: 2661.14s - 2666.70s
+      Speaker: Speaker 2
+      Audio Emotion: N/A (0.000)
+      Text Emotion: sadness (0.694)
+      Text: In this way they are having apparent depression and melancholia, but actually it...
+    ... and 5 more segments
+------------------------------------------------------------
+
+BLOCK 47:
+  Duration: 28.96 seconds
+  Speaker: Speaker 1
+  Word Count: 80
+  Segment Count: 29
+  Topics: krishna & chanting
+  Keywords: krishna, chanting, able, good, understand
+  Summary: I have a question. I will ask you.    I will asks you. I'll ask you, I willAskYou.com.
+  Text Preview: I have a question. I will ask you. I will ask you. I will ask you.      I will ask you. I will ask y...
+  Segments (29):
+    Segment 573:
+      Time: 2689.02s - 2692.90s
+      Speaker: Speaker 3
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.867)
+      Text: I have a question....
+    Segment 574:
+      Time: 2693.22s - 2694.44s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.913)
+      Text: I will ask you....
+    Segment 575:
+      Time: 2694.94s - 2696.62s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.913)
+      Text: I will ask you....
+    ... and 26 more segments
+------------------------------------------------------------
+
+BLOCK 48:
+  Duration: 57.40 seconds
+  Speaker: Speaker 2
+  Word Count: 206
+  Segment Count: 13
+  Topics: preaching & preach
+  Keywords: preaching, preach, devotees, rules regulations, rules
+  Summary: Nobody can repeat the words of Krishna unless they are actually on that platform. So if we hear, we will understand, they will talk of material things also. Yes, chant, but we have to have balance, you know.
+  Text Preview: तो दो पर पर पर पर पर पर पर पर पर पर पर पर पर पर पर पर पर पर पर पर पर पर पर पर पर पर पर पर पर पर पर प...
+  Segments (13):
+    Segment 602:
+      Time: 2730.20s - 2745.98s
+      Speaker: Speaker 2
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.605)
+      Text: तो दो पर पर पर पर पर पर पर पर पर पर पर पर पर पर पर पर पर पर पर पर पर पर पर पर पर...
+    Segment 604:
+      Time: 2745.78s - 2750.34s
+      Speaker: Speaker 2
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.881)
+      Text: So, thus, Prabhu Patel, yes, they may chant so many things, they will tell like ...
+    Segment 603:
+      Time: 2745.96s - 2745.96s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: ...
+    ... and 10 more segments
+------------------------------------------------------------
+
+BLOCK 49:
+  Duration: 34.74 seconds
+  Speaker: Speaker 2
+  Word Count: 99
+  Segment Count: 13
+  Topics: body & material, preaching & preach, krishna & chanting
+  Keywords: body, material, spiritual, dream, prasadam
+  Summary: Prabhu: While pitching one should not consider himself as a doer. Prakratayi, kriya manani, material nature is doing. I am simply instrument.
+  Text Preview: In that, you can talk so that online they can hear. Prabhu, how to understand that while pitching on...
+  Segments (13):
+    Segment 615:
+      Time: 2795.24s - 2797.84s
+      Speaker: Speaker 2
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.945)
+      Text: In that, you can talk so that online they can hear....
+    Segment 616:
+      Time: 2797.84s - 2801.98s
+      Speaker: Speaker 3
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.684)
+      Text: Prabhu, how to understand that while pitching one should not consider himself a-...
+    Segment 617:
+      Time: 2803.24s - 2807.14s
+      Speaker: Speaker 3
+      Audio Emotion: N/A (0.000)
+      Text Emotion: disgust (0.645)
+      Text: One should not consider himself as a doer as a doer....
+    ... and 10 more segments
+------------------------------------------------------------
+
+BLOCK 50:
+  Duration: 45.88 seconds
+  Speaker: Speaker 3
+  Word Count: 133
+  Segment Count: 13
+  Topics: preaching & preach, krishna & chanting, body & material
+  Keywords: preaching, preach, devotees, rules regulations, rules
+  Summary: We are always an instrument of Durga or Shematir Adharani. We are dependent on the realization of this knowledge, which is given by Krishna from the heart. So suppose this no- Why shall we serve Krishna?
+  Text Preview: Yes. So thus we think that I am doing anything. I am not doing. Material nature is doing and through...
+  Segments (13):
+    Segment 628:
+      Time: 2834.06s - 2837.96s
+      Speaker: Speaker 2
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.710)
+      Text: Yes. So thus we think that I am doing anything. I am not doing....
+    Segment 629:
+      Time: 2838.62s - 2845.74s
+      Speaker: Speaker 2
+      Audio Emotion: N/A (0.000)
+      Text Emotion: fear (0.833)
+      Text: Material nature is doing and through the body given to us. So as per our body we...
+    Segment 630:
+      Time: 2846.60s - 2854.30s
+      Speaker: Speaker 2
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.964)
+      Text: So similarly when we engage in preaching also again we are doing Krishna's work ...
+    ... and 10 more segments
+------------------------------------------------------------
+
+BLOCK 51:
+  Duration: 50.34 seconds
+  Speaker: Speaker 1
+  Word Count: 119
+  Segment Count: 15
+  Topics: krishna & chanting
+  Keywords: krishna, chanting, able, good, understand
+  Summary: Hare Krishna, Prabhu, we see that Drutra-Shrava was so much materially attached, but we also know that he was a son of Vasudev only. So why there is so much difference between sons
+  Text Preview:  Thank you. Hare Krishna, Prabhu, we see that Drutra-Shrava was so much materially attached, but we ...
+  Segments (15):
+    Segment 641:
+      Time: 2879.94s - 2879.94s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: ...
+    Segment 642:
+      Time: 2880.90s - 2881.52s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.666)
+      Text: Thank you....
+    Segment 643:
+      Time: 2885.38s - 2893.80s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.866)
+      Text: Hare Krishna, Prabhu, we see that Drutra-Shrava was so much materially attached,...
+    ... and 12 more segments
+------------------------------------------------------------
+
+BLOCK 52:
+  Duration: 38.74 seconds
+  Speaker: Speaker 2
+  Word Count: 82
+  Segment Count: 11
+  Topics: preaching & preach
+  Keywords: preaching, preach, devotees, rules regulations, rules
+  Summary: "I am not so much controlled about my senses. So many mata jis come. So it becomes very dangerous because my attacks. So how to preach?"
+  Text Preview: direction. So in preaching through, I am seeing very dangerous, if you call. It is very dangerous to...
+  Segments (11):
+    Segment 656:
+      Time: 2932.74s - 2934.14s
+      Speaker: Speaker 2
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.745)
+      Text: direction....
+    Segment 657:
+      Time: 2935.52s - 2941.98s
+      Speaker: Speaker 2
+      Audio Emotion: N/A (0.000)
+      Text Emotion: fear (0.914)
+      Text: So in preaching through, I am seeing very dangerous, if you call....
+    Segment 658:
+      Time: 2942.76s - 2945.72s
+      Speaker: Speaker 2
+      Audio Emotion: N/A (0.000)
+      Text Emotion: fear (0.642)
+      Text: It is very dangerous to go out and then preach....
+    ... and 8 more segments
+------------------------------------------------------------
+
+BLOCK 53:
+  Duration: 37.84 seconds
+  Speaker: Speaker 2
+  Word Count: 99
+  Segment Count: 14
+  Topics: preaching & preach, krishna & chanting
+  Keywords: preaching, preach, devotees, rules regulations, rules
+  Summary: Faridah's Takaor was preaching in a very sober community. Now if you go out and then preach, Mataji's are almost half-naked. So. it is very more, far more difficult, dangerous.
+  Text Preview: Maybe often, our owner has spent merely come back, he would do your chanting and other things. So th...
+  Segments (14):
+    Segment 667:
+      Time: 2972.10s - 2975.06s
+      Speaker: Speaker 2
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.956)
+      Text: Maybe often, our owner has spent merely come back,...
+    Segment 668:
+      Time: 2975.28s - 2976.84s
+      Speaker: Speaker 2
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.756)
+      Text: he would do your chanting and other things....
+    Segment 669:
+      Time: 2977.78s - 2981.22s
+      Speaker: Speaker 2
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.899)
+      Text: So this is a challenge in the preaching,...
+    ... and 11 more segments
+------------------------------------------------------------
+
+BLOCK 54:
+  Duration: 22.00 seconds
+  Speaker: Speaker 2
+  Word Count: 57
+  Segment Count: 10
+  Topics: krishna & chanting
+  Keywords: krishna, chanting, able, good, understand
+  Summary: "I have very focused work. I have my work and then... Okay, your office is nice. And then it's... The exact same question, Deode, is asked. How will you go to office? I go to
+  Text Preview: Yeah, so office, it's not so much bad. I would say because I have very focused work. I have my work ...
+  Segments (10):
+    Segment 681:
+      Time: 3010.92s - 3013.46s
+      Speaker: Speaker 2
+      Audio Emotion: N/A (0.000)
+      Text Emotion: disgust (0.623)
+      Text: Yeah, so office, it's not so much bad....
+    Segment 682:
+      Time: 3013.84s - 3016.18s
+      Speaker: Speaker 2
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.897)
+      Text: I would say because I have very focused work....
+    Segment 683:
+      Time: 3016.46s - 3017.56s
+      Speaker: Speaker 2
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.624)
+      Text: I have my work and then......
+    ... and 7 more segments
+------------------------------------------------------------
+
+BLOCK 55:
+  Duration: 34.06 seconds
+  Speaker: Speaker 3
+  Word Count: 102
+  Segment Count: 11
+  Topics: preaching & preach, krishna & chanting
+  Keywords: preaching, preach, devotees, rules regulations, rules
+  Summary: In Kiranandani there is a garden here. You go there, you find young couple sitting and kissing each other. Don't go there to preach. Go outside a crossbutt. Go to Starbucks where people are sitting doing some
+  Text Preview: Similarly, when we go outside we should try to go to a place where people are not half or full naked...
+  Segments (11):
+    Segment 691:
+      Time: 3032.94s - 3037.78s
+      Speaker: Speaker 3
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.522)
+      Text: Similarly, when we go outside we should try to go to a place where people are no...
+    Segment 692:
+      Time: 3037.78s - 3042.12s
+      Speaker: Speaker 3
+      Audio Emotion: N/A (0.000)
+      Text Emotion: disgust (0.609)
+      Text: or full naked where they are very close and they are really going to preach....
+    Segment 693:
+      Time: 3043.86s - 3045.60s
+      Speaker: Speaker 3
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.601)
+      Text: In Kiranandani there is a garden here....
+    ... and 8 more segments
+------------------------------------------------------------
+
+BLOCK 56:
+  Duration: 38.18 seconds
+  Speaker: Speaker 3
+  Word Count: 123
+  Segment Count: 16
+  Topics: preaching & preach, krishna & chanting
+  Keywords: preaching, preach, devotees, rules regulations, rules
+  Summary: When we are going out for preaching, we are conducted by internal potency. Yes, sometimes there could be some of these distractions anyway. But if we continue preaching, all these distractions gradually will go away.
+  Text Preview: One another question I have about. In Krishna consciousness there are two kinds of Anandis. Kostya A...
+  Segments (16):
+    Segment 702:
+      Time: 3068.06s - 3069.52s
+      Speaker: Speaker 2
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.903)
+      Text: One another question I have about....
+    Segment 703:
+      Time: 3070.06s - 3073.82s
+      Speaker: Speaker 2
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.917)
+      Text: In Krishna consciousness there are two kinds of Anandis....
+    Segment 704:
+      Time: 3074.08s - 3075.44s
+      Speaker: Speaker 2
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.918)
+      Text: Kostya Anandis and Bajanandis....
+    ... and 13 more segments
+------------------------------------------------------------
+
+BLOCK 57:
+  Duration: 59.30 seconds
+  Speaker: Speaker 4
+  Word Count: 144
+  Segment Count: 11
+  Topics: preaching & preach, krishna & chanting
+  Keywords: preaching, preach, devotees, rules regulations, rules
+  Summary: If you continue having faith on the spiritual master of course as I discuss we should be discriminating that don't go on a beach to preach where people are without many clothes you might get more try to discriminate, but we must go out,
+  Text Preview: Please provide a couple of questions. temple you are a new devotee, Proopartil no new devotee is als...
+  Segments (11):
+    Segment 718:
+      Time: 3106.24s - 3109.98s
+      Speaker: Speaker 3
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.944)
+      Text: Please provide a couple of questions....
+    Segment 719:
+      Time: 3114.64s - 3119.14s
+      Speaker: Speaker 3
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.620)
+      Text: temple you are a new devotee, Proopartil no new devotee is also should go out fo...
+    Segment 720:
+      Time: 3119.14s - 3123.74s
+      Speaker: Speaker 3
+      Audio Emotion: N/A (0.000)
+      Text Emotion: disgust (0.882)
+      Text: in that way they will become very strong and advanced. So it appears that it is ...
+    ... and 8 more segments
+------------------------------------------------------------
+
+BLOCK 58:
+  Duration: 106.36 seconds
+  Speaker: Speaker 4
+  Word Count: 274
+  Segment Count: 26
+  Topics: preaching & preach, krishna & chanting
+  Keywords: preaching, preach, devotees, rules regulations, rules
+  Summary: There are two kinds of devotees, Bhajna-Nandhi and Gosh-Teya-N andhi. Pure devotees don't even come out. Why Bhajnana Nandhi does not preach Kravupada explains.
+  Text Preview: Pure devotees don't even come out. Are they not pure devotees? How is that allowed first of all? Bec...
+  Segments (26):
+    Segment 729:
+      Time: 3171.62s - 3178.32s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.524)
+      Text: Pure devotees don't even come out. Are they not pure devotees? How is that allow...
+    Segment 730:
+      Time: 3178.46s - 3183.16s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.926)
+      Text: Because preaching is very important. We are seeing Mahaprabhu's direct instructi...
+    Segment 731:
+      Time: 3183.16s - 3189.72s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.621)
+      Text: Kotharakavakrishnam, but how they are doing pitching what is, why the those kind...
+    ... and 23 more segments
+------------------------------------------------------------
+
+BLOCK 59:
+  Duration: 117.88 seconds
+  Speaker: Speaker 4
+  Word Count: 321
+  Segment Count: 23
+  Topics: krishna & chanting, body & material, preaching & preach
+  Keywords: krishna, chanting, able, good, understand
+  Summary: Our bodies are filled with Rajas Bhajan in one place, what will happen? Prabhupāt is you will think of women and money. So, Krishna told you will not be able to take Sannyas because you have got body of a Shatriya. Now you are declining to fight. This is because of material attachment. Later you will anyway fight because you've got body. So use this tendency in the service of Krishna. That is the way to reach platform.
+  Text Preview: So, Krishna told you will not be able to take Sannyas because you have got body of a Shatriya. Prakr...
+  Segments (23):
+    Segment 755:
+      Time: 3279.44s - 3284.48s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.705)
+      Text: So, Krishna told you will not be able to take Sannyas because you have got body ...
+    Segment 756:
+      Time: 3284.96s - 3286.98s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.877)
+      Text: Prakratya Ikriya Manani has just discussed....
+    Segment 757:
+      Time: 3287.52s - 3291.40s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: Now you are declining to fight. This is because of material attachment....
+    ... and 20 more segments
+------------------------------------------------------------
+
+BLOCK 60:
+  Duration: 76.08 seconds
+  Speaker: Speaker 4
+  Word Count: 207
+  Segment Count: 20
+  Topics: krishna & chanting
+  Keywords: krishna, chanting, able, good, understand
+  Summary: Krishna has very clearly told. one who preaches, has Krishna told, there is nobody dear to me, then the one who chants always. by following the sam Pradaya. But then Chetanema Aaprava came and then he summarized everything. He summarized all the four vashnavas.
+  Text Preview: by following the sam Pradaya. Respect to everyone who is a devotee of Krishna. But then Chetanema Aa...
+  Segments (20):
+    Segment 778:
+      Time: 3397.32s - 3401.46s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: by following the sam Pradaya. Respect to everyone who is a devotee of Krishna....
+    Segment 779:
+      Time: 3402.36s - 3407.12s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.664)
+      Text: But then Chetanema Aaprava came and then he summarized everything. He summarized...
+    Segment 780:
+      Time: 3407.12s - 3411.14s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.950)
+      Text: all the four vashnavas sam Pradaya's, any gave this philosophy. So thus we shoul...
+    ... and 17 more segments
+------------------------------------------------------------
+
+BLOCK 61:
+  Duration: 78.52 seconds
+  Speaker: Speaker 4
+  Word Count: 203
+  Segment Count: 29
+  Topics: krishna & chanting, preaching & preach
+  Keywords: krishna, chanting, able, good, understand
+  Summary: Prabhupāda, use very strong words. That you are telling, I do not go outside vindavan, What is this nonsense? Krishna has told, Chetha na maa probu, Fritvi te āchhe, as many towns and villages MY NAME SHOULD BE BREASHED.
+  Text Preview: Sarvat thar prachar hoi bae mo rana, Amar agya ya, Guru haya tae dita rae deesh, On my order, you be...
+  Segments (29):
+    Segment 798:
+      Time: 3475.06s - 3476.64s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: Sarvat thar prachar hoi bae mo rana,...
+    Segment 799:
+      Time: 3477.44s - 3478.44s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.903)
+      Text: Amar agya ya,...
+    Segment 800:
+      Time: 3478.86s - 3480.68s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.919)
+      Text: Guru haya tae dita rae deesh,...
+    ... and 26 more segments
+------------------------------------------------------------
+
+BLOCK 62:
+  Duration: 67.34 seconds
+  Speaker: Speaker 4
+  Word Count: 166
+  Segment Count: 16
+  Topics: krishna & chanting, preaching & preach
+  Keywords: krishna, chanting, able, good, understand
+  Summary: Yagya is Sankirtana, Taya ira, they worship a unique form of Krishna. Krishna Mauna Maa Na Maa is always chanting Krishna's name. Many people worship Krishna, but nobody's or very less people are able to
+  Text Preview: Krishna Vandana Tusha Krishna Sangho Panga Sir Parshall In Kali, how Krishna has to be worshipped? T...
+  Segments (16):
+    Segment 827:
+      Time: 3554.74s - 3557.98s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.671)
+      Text: Krishna Vandana Tusha Krishna Sangho Panga Sir Parshall...
+    Segment 828:
+      Time: 3558.76s - 3560.80s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.788)
+      Text: In Kali, how Krishna has to be worshipped?...
+    Segment 829:
+      Time: 3561.84s - 3564.60s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.872)
+      Text: There are many ways in which people worship Krishna, but...
+    ... and 13 more segments
+------------------------------------------------------------
+
+BLOCK 63:
+  Duration: 39.46 seconds
+  Speaker: Speaker 4
+  Word Count: 37
+  Segment Count: 9
+  Topics: krishna & chanting
+  Keywords: krishna, chanting, able, good, understand
+  Summary: Kṛṣṇa-marn, dark complexion. So everyone worships dark complexion sorry dark complexion lord lord Kṛritti. Goranga, bright or golden, opposite to KṚritt
+  Text Preview: a Kṛṣṇa whose complexion is bright or golden opposite to Kṛṣṇa-marn, dark complexion. So everyone wo...
+  Segments (9):
+    Segment 843:
+      Time: 3622.08s - 3631.92s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: a Kṛṣṇa whose complexion is bright or golden opposite to Kṛṣṇa-marn, dark comple...
+    Segment 844:
+      Time: 3631.92s - 3639.84s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: sadness (0.962)
+      Text: worships dark complexion sorry dark complexion lord lord Kṛṣṇa every one worship...
+    Segment 845:
+      Time: 3655.92s - 3657.32s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: ھای...
+    ... and 6 more segments
+------------------------------------------------------------
+
+BLOCK 64:
+  Duration: 35.60 seconds
+  Speaker: Speaker 1
+  Word Count: 50
+  Segment Count: 24
+  Topics: krishna & chanting
+  Keywords: krishna, chanting, able, good, understand
+  Summary: Chetanemaaprabuy developed all the philosophies of Acharyas of his of Acharya's. Who takes this sankheerthan as the topmost action of spiritual life?
+  Text Preview:     ھ ھ   ھ  ھ     ھ  देवर्शिविंबब़े, संकिर्तन यद्याद्या. Who takes this sankheerthan यद्याद्या as t...
+  Segments (24):
+    Segment 852:
+      Time: 3661.54s - 3661.54s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: ...
+    Segment 853:
+      Time: 3661.54s - 3661.54s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: ...
+    Segment 854:
+      Time: 3661.54s - 3661.54s
+      Speaker: Speaker 1
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: ...
+    ... and 21 more segments
+------------------------------------------------------------
+
+BLOCK 65:
+  Duration: 38.82 seconds
+  Speaker: Speaker 4
+  Word Count: 93
+  Segment Count: 9
+  Topics: krishna & chanting, preaching & preach
+  Keywords: krishna, chanting, able, good, understand
+  Summary: Shri Pashankaracharya came, but this philosophy was up for a particular situation. It is not supposed to be followed universally always for attaining the ultimate perfection. As we can see again, it is based on the
+  Text Preview: Shri Pashankaracharya came, but this philosophy was up for a particular situation. It is not suppose...
+  Segments (9):
+    Segment 876:
+      Time: 3698.54s - 3703.94s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.930)
+      Text: Shri Pashankaracharya came, but this philosophy was up for a particular situatio...
+    Segment 877:
+      Time: 3705.58s - 3710.10s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.882)
+      Text: It is not supposed to be followed universally always for attaining the ultimate ...
+    Segment 878:
+      Time: 3711.48s - 3713.48s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.938)
+      Text: As we can see again, it is based on the scriptures....
+    ... and 6 more segments
+------------------------------------------------------------
+
+BLOCK 66:
+  Duration: 71.42 seconds
+  Speaker: Speaker 4
+  Word Count: 162
+  Segment Count: 24
+  Topics: body & material
+  Keywords: body, material, spiritual, dream, prasadam
+  Summary: Hors-Beat cured his horse by striking him with a hammer on the neck. The horse had swallowed a squash, which was the reason for the swelling.
+  Text Preview: So then the vet was called, that piece cured my horse. So what did the vet do? He struck with hammer...
+  Segments (24):
+    Segment 885:
+      Time: 3738.56s - 3741.66s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: joy (0.633)
+      Text: So then the vet was called, that piece cured my horse....
+    Segment 886:
+      Time: 3742.82s - 3745.44s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.562)
+      Text: So what did the vet do?...
+    Segment 887:
+      Time: 3746.64s - 3749.30s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: anger (0.785)
+      Text: He struck with hammer on the neck of the horse....
+    ... and 21 more segments
+------------------------------------------------------------
+
+BLOCK 67:
+  Duration: 24.88 seconds
+  Speaker: Speaker 4
+  Word Count: 62
+  Segment Count: 5
+  Topics: preaching & preach, krishna & chanting
+  Keywords: preaching, preach, devotees, rules regulations, rules
+  Summary: People would not have followed, subscribed to Vedic understanding unless they would have given this particular interpretation of Vedas which towards the Buddhist understanding. So like this others would not understand the particular situation and entire country was following Buddhism, they could
+  Text Preview: thus the horse was cured. So it was this striking was for this particular situation. So like this ot...
+  Segments (5):
+    Segment 909:
+      Time: 3812.20s - 3821.44s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: thus the horse was cured. So it was this striking was for this particular situat...
+    Segment 910:
+      Time: 3821.44s - 3825.80s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: this others would not understand the particular situation and entire country was...
+    Segment 911:
+      Time: 3826.36s - 3831.70s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.767)
+      Text: they could not have taken to Vedas. People would not have followed, subscribed t...
+    ... and 2 more segments
+------------------------------------------------------------
+
+BLOCK 68:
+  Duration: 197.62 seconds
+  Speaker: Speaker 4
+  Word Count: 480
+  Segment Count: 46
+  Topics: krishna & chanting, preaching & preach
+  Keywords: krishna, chanting, able, good, understand
+  Summary: The entire advancement of bhakti depends upon pleasing Krishna. Prabhupāta's Krishna becomes very much pleased when he sees devotees are taking risk for him. Krishna is only declared, nobody is dearer than the one who preaches. As we venture more or we take on more risk bigger, bigger responsibilities.
+  Text Preview: ھوڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑ...
+  Segments (46):
+    Segment 914:
+      Time: 3859.40s - 3860.80s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.657)
+      Text: ھوڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑڑ...
+    Segment 915:
+      Time: 3864.00s - 3869.72s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.690)
+      Text: further, Chetana Mahaprava being God himself he came to establish Yuga Dharma ga...
+    Segment 916:
+      Time: 3871.82s - 3877.26s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.941)
+      Text: So thus and thus we understand that this is perfection of philosophy. Who follow...
+    ... and 43 more segments
+------------------------------------------------------------
+
+BLOCK 69:
+  Duration: 31.58 seconds
+  Speaker: Speaker 4
+  Word Count: 88
+  Segment Count: 6
+  Topics: preaching & preach, krishna & chanting
+  Keywords: preaching, preach, devotees, rules regulations, rules
+  Summary: Manon: I am very much blissful. But this one step, the first step it is getting very hard. So that is why we have to have Sankey Ritann going going together.
+  Text Preview: and I have seen like devotees who go out on book distribution. when they are actually touching peopl...
+  Segments (6):
+    Segment 960:
+      Time: 4058.28s - 4061.70s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: and I have seen like devotees who go out on book distribution....
+    Segment 961:
+      Time: 4066.66s - 4071.38s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: N/A (0.000)
+      Text: when they are actually touching people and giving books and not. But the first t...
+    Segment 962:
+      Time: 4071.38s - 4077.38s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.621)
+      Text: feel that is the most, how it is just going up. Yes. So, Manon, they know that y...
+    ... and 3 more segments
+------------------------------------------------------------
+
+BLOCK 70:
+  Duration: 38.68 seconds
+  Speaker: Speaker 4
+  Word Count: 91
+  Segment Count: 7
+  Topics: preaching & preach, krishna & chanting
+  Keywords: preaching, preach, devotees, rules regulations, rules
+  Summary: Form a group, decide and then go out. If you are not feeling other person will tell Prabhu, it's time. On our own, we may feel lazy. Following an association is very, very important.
+  Text Preview: If you are not feeling other person will tell Prabhu, it's time. Let us go. On our own, we may feel ...
+  Segments (7):
+    Segment 966:
+      Time: 4094.72s - 4100.30s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: sadness (0.613)
+      Text: If you are not feeling other person will tell Prabhu, it's time. Let us go. On o...
+    Segment 967:
+      Time: 4101.16s - 4107.06s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.944)
+      Text: So form a group, decide and then go out. So that is the Sankey Ritann. Following...
+    Segment 968:
+      Time: 4107.06s - 4112.10s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: sadness (0.885)
+      Text: very, very important. We will finish any questions. Sorry, online we could not t...
+    ... and 4 more segments
+------------------------------------------------------------
+
+BLOCK 71:
+  Duration: 80.64 seconds
+  Speaker: Speaker 4
+  Word Count: 214
+  Segment Count: 17
+  Topics: preaching & preach, krishna & chanting
+  Keywords: preaching, preach, devotees, rules regulations, rules
+  Summary: The preaching is based on chanting, hearing, following, rules and regulations very nicely. If we are ourselves, not following what shall we preach? Sanatana Goswami told Hari Dastaka, some people behave very nicely, but they will not preach. Others they preach but do not behave nicely. But you are so nice that
+  Text Preview: but is not advancing that much, not able to develop love for Krishna. He is felt, he feels, it seems...
+  Segments (17):
+    Segment 973:
+      Time: 4133.92s - 4138.58s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: sadness (0.931)
+      Text: but is not advancing that much, not able to develop love for Krishna....
+    Segment 974:
+      Time: 4139.42s - 4144.98s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.781)
+      Text: He is felt, he feels, it seems he is doing it on material platform....
+    Segment 975:
+      Time: 4145.46s - 4145.98s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.699)
+      Text: What is the...
+    ... and 14 more segments
+------------------------------------------------------------
+
+BLOCK 72:
+  Duration: 39.92 seconds
+  Speaker: Speaker 4
+  Word Count: 104
+  Segment Count: 7
+  Topics: preaching & preach
+  Keywords: preaching, preach, devotees, rules regulations, rules
+  Summary: All of them are actually soldiers. preacher. Others are somebody's drivers carrying out the supplies, somebody's store keeper taking charge of the store. So that is why we have to do.
+  Text Preview: Others are somebody's drivers carrying out the supplies, somebody's store keeper taking charge of th...
+  Segments (7):
+    Segment 990:
+      Time: 4214.76s - 4220.64s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.900)
+      Text: Others are somebody's drivers carrying out the supplies, somebody's store keeper...
+    Segment 991:
+      Time: 4221.46s - 4224.72s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: disgust (0.940)
+      Text: somebody's doctor also among the doctors healing the wounded soldiers....
+    Segment 992:
+      Time: 4224.72s - 4229.40s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.861)
+      Text: Some people are there actually on the front fighting but all of them are actuall...
+    ... and 4 more segments
+------------------------------------------------------------
+
+BLOCK 73:
+  Duration: 24.34 seconds
+  Speaker: Speaker 4
+  Word Count: 64
+  Segment Count: 5
+  Topics: preaching & preach
+  Keywords: preaching, preach, devotees, rules regulations, rules
+  Summary: Praying is not whimsical but under proper just like commander tells you do this service you fight in this way you this is order for you. So under the order of the commander or our authorities we have to execute the service.
+  Text Preview: Designing, developing a website is required for preaching. get absorbed completely designed best of ...
+  Segments (5):
+    Segment 997:
+      Time: 4255.36s - 4257.86s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.884)
+      Text: Designing, developing a website is required for preaching....
+    Segment 998:
+      Time: 4260.58s - 4265.98s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.799)
+      Text: get absorbed completely designed best of the websites and that is actually preac...
+    Segment 999:
+      Time: 4266.38s - 4270.26s
+      Speaker: Speaker 4
+      Audio Emotion: N/A (0.000)
+      Text Emotion: neutral (0.952)
+      Text: So preaching is not whimsical but under proper just like commander tells you do ...
+    ... and 2 more segments
+------------------------------------------------------------

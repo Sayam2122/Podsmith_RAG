@@ -1,0 +1,94 @@
+{
+  "validation_timestamp": "2025-07-13T06:07:10.607571",
+  "overall_status": "failed",
+  "step_validations": {
+    "transcription": {
+      "step": "transcription",
+      "status": "error",
+      "errors": [
+        "Missing required field: language",
+        "Missing required field: duration",
+        "Missing required field: text",
+        "Missing required field: segments",
+        "Validation error: 'list' object has no attribute 'get'"
+      ],
+      "warnings": [],
+      "metrics": {}
+    },
+    "emotion_detection": {
+      "step": "emotion_detection",
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "metrics": {
+        "total_text_emotions": 818,
+        "valid_text_emotions": 818,
+        "low_confidence_text_emotions": 100,
+        "text_emotion_success_rate": 1.0,
+        "total_audio_emotions": 932,
+        "valid_audio_emotions": 932,
+        "null_audio_emotions": 0,
+        "audio_emotion_success_rate": 1.0
+      }
+    },
+    "semantic_segmentation": {
+      "step": "semantic_segmentation",
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "metrics": {
+        "total_blocks": 73,
+        "empty_blocks": 0,
+        "empty_block_ratio": 0.0,
+        "blocks_with_topics": 73,
+        "topic_coverage": 1.0,
+        "total_duration": 4082.100000000002,
+        "total_words": 9841,
+        "average_block_duration": 55.91917808219181,
+        "average_words_per_block": 134.8082191780822
+      }
+    },
+    "summarization": {
+      "step": "summarization",
+      "status": "failed",
+      "errors": [
+        "Empty global summary"
+      ],
+      "warnings": [],
+      "metrics": {
+        "has_global_summary": false,
+        "total_block_summaries": 73,
+        "empty_block_summaries": 0,
+        "average_compression_ratio": 0.0,
+        "summarization_methods": [
+          "unknown"
+        ]
+      }
+    },
+    "keyword_extraction": {
+      "step": "keyword_extraction",
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "metrics": {
+        "total_global_keywords": 9,
+        "valid_global_keywords": 9,
+        "total_blocks_with_keywords": 73,
+        "total_block_keywords": 701,
+        "average_keywords_per_block": 9.602739726027398,
+        "has_keyword_trends": true,
+        "unique_topics_detected": 0
+      }
+    }
+  },
+  "summary": {
+    "total_steps": 5,
+    "passed_steps": 3,
+    "failed_steps": 1,
+    "steps_with_warnings": 0
+  },
+  "recommendations": [
+    "Short audio duration - consider longer content for better analysis",
+    "Critical: summarization failed validation - review and reprocess"
+  ]
+}

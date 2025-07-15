@@ -1,0 +1,15 @@
+# Free RAG System Requirements
+# All open-source, no API keys needed
+
+# Core dependencies
+sentence-transformers>=2.2.2
+chromadb>=0.4.15
+requests>=2.31.0
+numpy>=1.24.0
+
+# Optional but recommended
+torch>=2.0.0
+transformers>=4.35.0
+
+# For better performance (optional)
+faiss-cpu>=1.7.4

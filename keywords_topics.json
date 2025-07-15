@@ -1,0 +1,3732 @@
+{
+  "global_keywords": [
+    {
+      "keyword": "krishna",
+      "score": 0.0,
+      "frequency": 149,
+      "block_appearances": 39,
+      "context_relevance": 0.567
+    },
+    {
+      "keyword": "ھاں",
+      "score": 0.0,
+      "frequency": 55,
+      "block_appearances": 1,
+      "context_relevance": 0.307
+    },
+    {
+      "keyword": "also",
+      "score": 0.0,
+      "frequency": 50,
+      "block_appearances": 29,
+      "context_relevance": 0.499
+    },
+    {
+      "keyword": "material",
+      "score": 0.0,
+      "frequency": 45,
+      "block_appearances": 25,
+      "context_relevance": 0.471
+    },
+    {
+      "keyword": "understand",
+      "score": 0.0,
+      "frequency": 54,
+      "block_appearances": 25,
+      "context_relevance": 0.471
+    },
+    {
+      "keyword": "spiritual",
+      "score": 0.0,
+      "frequency": 35,
+      "block_appearances": 18,
+      "context_relevance": 0.423
+    },
+    {
+      "keyword": "preaching",
+      "score": 0.0,
+      "frequency": 33,
+      "block_appearances": 15,
+      "context_relevance": 0.403
+    },
+    {
+      "keyword": "thus",
+      "score": 0.0,
+      "frequency": 33,
+      "block_appearances": 25,
+      "context_relevance": 0.471
+    },
+    {
+      "keyword": "body",
+      "score": 0.0,
+      "frequency": 56,
+      "block_appearances": 28,
+      "context_relevance": 0.492
+    }
+  ],
+  "per_block": {
+    "1": [
+      {
+        "keyword": "understand",
+        "score": 0.4188,
+        "type": "word"
+      },
+      {
+        "keyword": "try",
+        "score": 0.36,
+        "type": "word"
+      },
+      {
+        "keyword": "category",
+        "score": 0.3248,
+        "type": "word"
+      },
+      {
+        "keyword": "intelligence",
+        "score": 0.3026,
+        "type": "word"
+      },
+      {
+        "keyword": "lord",
+        "score": 0.2318,
+        "type": "word"
+      },
+      {
+        "keyword": "another category",
+        "score": 0.1624,
+        "type": "phrase"
+      },
+      {
+        "keyword": "never",
+        "score": 0.1624,
+        "type": "word"
+      },
+      {
+        "keyword": "intelligent",
+        "score": 0.1513,
+        "type": "word"
+      },
+      {
+        "keyword": "read",
+        "score": 0.1513,
+        "type": "word"
+      },
+      {
+        "keyword": "able understand",
+        "score": 0.1427,
+        "type": "phrase"
+      }
+    ],
+    "2": [
+      {
+        "keyword": "ھاں",
+        "score": 0.5879,
+        "type": "word"
+      },
+      {
+        "keyword": "ھاں ھاں",
+        "score": 0.5772,
+        "type": "phrase"
+      },
+      {
+        "keyword": "ھاں ھاں ھاں",
+        "score": 0.5665,
+        "type": "phrase"
+      }
+    ],
+    "3": [
+      {
+        "keyword": "rules",
+        "score": 0.2627,
+        "type": "word"
+      },
+      {
+        "keyword": "rules regulations",
+        "score": 0.2627,
+        "type": "phrase"
+      },
+      {
+        "keyword": "bhakti",
+        "score": 0.2522,
+        "type": "word"
+      },
+      {
+        "keyword": "regulations",
+        "score": 0.2522,
+        "type": "word"
+      },
+      {
+        "keyword": "following",
+        "score": 0.243,
+        "type": "word"
+      },
+      {
+        "keyword": "literature",
+        "score": 0.2404,
+        "type": "word"
+      },
+      {
+        "keyword": "pancharatra",
+        "score": 0.2404,
+        "type": "word"
+      },
+      {
+        "keyword": "shruti",
+        "score": 0.2404,
+        "type": "word"
+      },
+      {
+        "keyword": "signs",
+        "score": 0.2404,
+        "type": "word"
+      },
+      {
+        "keyword": "situation",
+        "score": 0.2205,
+        "type": "word"
+      }
+    ],
+    "4": [
+      {
+        "keyword": "followed strictly",
+        "score": 0.4182,
+        "type": "phrase"
+      },
+      {
+        "keyword": "strictly",
+        "score": 0.4182,
+        "type": "word"
+      },
+      {
+        "keyword": "followed",
+        "score": 0.3553,
+        "type": "word"
+      },
+      {
+        "keyword": "rules",
+        "score": 0.3046,
+        "type": "word"
+      },
+      {
+        "keyword": "rules regulations",
+        "score": 0.3046,
+        "type": "phrase"
+      },
+      {
+        "keyword": "regulations",
+        "score": 0.2925,
+        "type": "word"
+      },
+      {
+        "keyword": "already",
+        "score": 0.1777,
+        "type": "word"
+      },
+      {
+        "keyword": "display",
+        "score": 0.1777,
+        "type": "word"
+      },
+      {
+        "keyword": "practice",
+        "score": 0.1777,
+        "type": "word"
+      },
+      {
+        "keyword": "follow rules",
+        "score": 0.1676,
+        "type": "phrase"
+      }
+    ],
+    "5": [
+      {
+        "keyword": "symptoms",
+        "score": 0.489,
+        "type": "word"
+      },
+      {
+        "keyword": "platform",
+        "score": 0.378,
+        "type": "word"
+      },
+      {
+        "keyword": "krishna name",
+        "score": 0.3062,
+        "type": "phrase"
+      },
+      {
+        "keyword": "practice",
+        "score": 0.2852,
+        "type": "word"
+      },
+      {
+        "keyword": "also",
+        "score": 0.2771,
+        "type": "word"
+      },
+      {
+        "keyword": "hear",
+        "score": 0.269,
+        "type": "word"
+      },
+      {
+        "keyword": "external",
+        "score": 0.2557,
+        "type": "word"
+      },
+      {
+        "keyword": "name",
+        "score": 0.2557,
+        "type": "word"
+      },
+      {
+        "keyword": "soon",
+        "score": 0.2557,
+        "type": "word"
+      },
+      {
+        "keyword": "material platform",
+        "score": 0.2445,
+        "type": "phrase"
+      }
+    ],
+    "6": [
+      {
+        "keyword": "science",
+        "score": 0.6299,
+        "type": "word"
+      },
+      {
+        "keyword": "symptoms",
+        "score": 0.3441,
+        "type": "word"
+      },
+      {
+        "keyword": "material attachment",
+        "score": 0.2676,
+        "type": "phrase"
+      },
+      {
+        "keyword": "love god",
+        "score": 0.2524,
+        "type": "phrase"
+      },
+      {
+        "keyword": "love",
+        "score": 0.2294,
+        "type": "word"
+      },
+      {
+        "keyword": "attachment",
+        "score": 0.2122,
+        "type": "word"
+      },
+      {
+        "keyword": "god",
+        "score": 0.1985,
+        "type": "word"
+      },
+      {
+        "keyword": "material",
+        "score": 0.1452,
+        "type": "word"
+      },
+      {
+        "keyword": "family",
+        "score": 0.1436,
+        "type": "word"
+      },
+      {
+        "keyword": "god one",
+        "score": 0.1436,
+        "type": "phrase"
+      }
+    ],
+    "7": [
+      {
+        "keyword": "samadhi",
+        "score": 0.2923,
+        "type": "word"
+      },
+      {
+        "keyword": "symptoms",
+        "score": 0.2918,
+        "type": "word"
+      },
+      {
+        "keyword": "arjuna",
+        "score": 0.2442,
+        "type": "word"
+      },
+      {
+        "keyword": "fixed",
+        "score": 0.2193,
+        "type": "word"
+      },
+      {
+        "keyword": "perfect",
+        "score": 0.216,
+        "type": "word"
+      },
+      {
+        "keyword": "intelligence",
+        "score": 0.2043,
+        "type": "word"
+      },
+      {
+        "keyword": "speak",
+        "score": 0.1926,
+        "type": "word"
+      },
+      {
+        "keyword": "understand",
+        "score": 0.1884,
+        "type": "word"
+      },
+      {
+        "keyword": "one",
+        "score": 0.1823,
+        "type": "word"
+      },
+      {
+        "keyword": "intelligence fixed",
+        "score": 0.1603,
+        "type": "phrase"
+      }
+    ],
+    "8": [
+      {
+        "keyword": "met",
+        "score": 0.4374,
+        "type": "word"
+      },
+      {
+        "keyword": "trying",
+        "score": 0.4075,
+        "type": "word"
+      },
+      {
+        "keyword": "many",
+        "score": 0.257,
+        "type": "word"
+      },
+      {
+        "keyword": "understand",
+        "score": 0.2255,
+        "type": "word"
+      },
+      {
+        "keyword": "keep",
+        "score": 0.2187,
+        "type": "word"
+      },
+      {
+        "keyword": "practices",
+        "score": 0.2187,
+        "type": "word"
+      },
+      {
+        "keyword": "understand whether",
+        "score": 0.2187,
+        "type": "phrase"
+      },
+      {
+        "keyword": "many many",
+        "score": 0.2037,
+        "type": "phrase"
+      },
+      {
+        "keyword": "ask",
+        "score": 0.1921,
+        "type": "word"
+      },
+      {
+        "keyword": "place",
+        "score": 0.1921,
+        "type": "word"
+      }
+    ],
+    "9": [
+      {
+        "keyword": "caught",
+        "score": 0.5998,
+        "type": "word"
+      },
+      {
+        "keyword": "soon caught",
+        "score": 0.3999,
+        "type": "phrase"
+      },
+      {
+        "keyword": "soon",
+        "score": 0.3046,
+        "type": "word"
+      },
+      {
+        "keyword": "instructions krishna",
+        "score": 0.1824,
+        "type": "phrase"
+      },
+      {
+        "keyword": "learned",
+        "score": 0.1824,
+        "type": "word"
+      },
+      {
+        "keyword": "per",
+        "score": 0.1824,
+        "type": "word"
+      },
+      {
+        "keyword": "display",
+        "score": 0.1699,
+        "type": "word"
+      },
+      {
+        "keyword": "else",
+        "score": 0.1699,
+        "type": "word"
+      },
+      {
+        "keyword": "intelligent",
+        "score": 0.1699,
+        "type": "word"
+      },
+      {
+        "keyword": "man",
+        "score": 0.1699,
+        "type": "word"
+      }
+    ],
+    "10": [
+      {
+        "keyword": "krishna",
+        "score": 0.556,
+        "type": "word"
+      },
+      {
+        "keyword": "actual",
+        "score": 0.2895,
+        "type": "word"
+      },
+      {
+        "keyword": "position krishna",
+        "score": 0.2697,
+        "type": "phrase"
+      },
+      {
+        "keyword": "position",
+        "score": 0.222,
+        "type": "word"
+      },
+      {
+        "keyword": "always krishna",
+        "score": 0.1448,
+        "type": "phrase"
+      },
+      {
+        "keyword": "iti",
+        "score": 0.1448,
+        "type": "word"
+      },
+      {
+        "keyword": "iti matva",
+        "score": 0.1448,
+        "type": "phrase"
+      },
+      {
+        "keyword": "iti matva bhajan",
+        "score": 0.1448,
+        "type": "phrase"
+      },
+      {
+        "keyword": "krishna iti",
+        "score": 0.1448,
+        "type": "phrase"
+      },
+      {
+        "keyword": "krishna iti matva",
+        "score": 0.1448,
+        "type": "phrase"
+      }
+    ],
+    "11": [
+      {
+        "keyword": "krishna",
+        "score": 0.2786,
+        "type": "word"
+      },
+      {
+        "keyword": "man",
+        "score": 0.2253,
+        "type": "word"
+      },
+      {
+        "keyword": "first symptom",
+        "score": 0.202,
+        "type": "phrase"
+      },
+      {
+        "keyword": "symptom",
+        "score": 0.202,
+        "type": "word"
+      },
+      {
+        "keyword": "festations",
+        "score": 0.1768,
+        "type": "word"
+      },
+      {
+        "keyword": "kaaman",
+        "score": 0.1768,
+        "type": "word"
+      },
+      {
+        "keyword": "manogatan",
+        "score": 0.1768,
+        "type": "word"
+      },
+      {
+        "keyword": "many festations",
+        "score": 0.1768,
+        "type": "phrase"
+      },
+      {
+        "keyword": "first",
+        "score": 0.1726,
+        "type": "word"
+      },
+      {
+        "keyword": "buddha",
+        "score": 0.1612,
+        "type": "word"
+      }
+    ],
+    "12": [
+      {
+        "keyword": "low",
+        "score": 0.3195,
+        "type": "word"
+      },
+      {
+        "keyword": "smell",
+        "score": 0.2914,
+        "type": "word"
+      },
+      {
+        "keyword": "anyway",
+        "score": 0.256,
+        "type": "word"
+      },
+      {
+        "keyword": "association",
+        "score": 0.256,
+        "type": "word"
+      },
+      {
+        "keyword": "use",
+        "score": 0.256,
+        "type": "word"
+      },
+      {
+        "keyword": "chetanema",
+        "score": 0.2434,
+        "type": "word"
+      },
+      {
+        "keyword": "bad",
+        "score": 0.2153,
+        "type": "word"
+      },
+      {
+        "keyword": "body",
+        "score": 0.1954,
+        "type": "word"
+      },
+      {
+        "keyword": "life",
+        "score": 0.1847,
+        "type": "word"
+      },
+      {
+        "keyword": "even",
+        "score": 0.1673,
+        "type": "word"
+      }
+    ],
+    "13": [
+      {
+        "keyword": "jagadanand",
+        "score": 0.346,
+        "type": "word"
+      },
+      {
+        "keyword": "pandit",
+        "score": 0.2768,
+        "type": "word"
+      },
+      {
+        "keyword": "sanatana",
+        "score": 0.2525,
+        "type": "word"
+      },
+      {
+        "keyword": "sanatana goswami",
+        "score": 0.2525,
+        "type": "phrase"
+      },
+      {
+        "keyword": "goswami",
+        "score": 0.252,
+        "type": "word"
+      },
+      {
+        "keyword": "close",
+        "score": 0.2352,
+        "type": "word"
+      },
+      {
+        "keyword": "became",
+        "score": 0.2218,
+        "type": "word"
+      },
+      {
+        "keyword": "would",
+        "score": 0.2116,
+        "type": "word"
+      },
+      {
+        "keyword": "chetanemaaprava",
+        "score": 0.2076,
+        "type": "word"
+      },
+      {
+        "keyword": "jagadanand pandit",
+        "score": 0.2076,
+        "type": "phrase"
+      }
+    ],
+    "14": [
+      {
+        "keyword": "body",
+        "score": 0.5234,
+        "type": "word"
+      },
+      {
+        "keyword": "material",
+        "score": 0.3158,
+        "type": "word"
+      },
+      {
+        "keyword": "embrace",
+        "score": 0.3123,
+        "type": "word"
+      },
+      {
+        "keyword": "perceive",
+        "score": 0.2744,
+        "type": "word"
+      },
+      {
+        "keyword": "spiritual",
+        "score": 0.1752,
+        "type": "word"
+      },
+      {
+        "keyword": "body body",
+        "score": 0.1561,
+        "type": "phrase"
+      },
+      {
+        "keyword": "body body completely",
+        "score": 0.1561,
+        "type": "phrase"
+      },
+      {
+        "keyword": "body completely",
+        "score": 0.1561,
+        "type": "phrase"
+      },
+      {
+        "keyword": "body completely spiritual",
+        "score": 0.1561,
+        "type": "phrase"
+      },
+      {
+        "keyword": "sandalwood",
+        "score": 0.1561,
+        "type": "word"
+      }
+    ],
+    "15": [
+      {
+        "keyword": "body",
+        "score": 0.4671,
+        "type": "word"
+      },
+      {
+        "keyword": "pure",
+        "score": 0.2494,
+        "type": "word"
+      },
+      {
+        "keyword": "one",
+        "score": 0.2484,
+        "type": "word"
+      },
+      {
+        "keyword": "body pure",
+        "score": 0.2183,
+        "type": "phrase"
+      },
+      {
+        "keyword": "janitay",
+        "score": 0.2183,
+        "type": "word"
+      },
+      {
+        "keyword": "pure vashnava",
+        "score": 0.2183,
+        "type": "phrase"
+      },
+      {
+        "keyword": "real perception",
+        "score": 0.2183,
+        "type": "phrase"
+      },
+      {
+        "keyword": "sinful",
+        "score": 0.2183,
+        "type": "word"
+      },
+      {
+        "keyword": "soon body",
+        "score": 0.2183,
+        "type": "phrase"
+      },
+      {
+        "keyword": "one material",
+        "score": 0.1991,
+        "type": "phrase"
+      }
+    ],
+    "16": [
+      {
+        "keyword": "prasadam",
+        "score": 0.3103,
+        "type": "word"
+      },
+      {
+        "keyword": "nature",
+        "score": 0.282,
+        "type": "word"
+      },
+      {
+        "keyword": "body",
+        "score": 0.2368,
+        "type": "word"
+      },
+      {
+        "keyword": "completely",
+        "score": 0.2368,
+        "type": "word"
+      },
+      {
+        "keyword": "material",
+        "score": 0.1786,
+        "type": "word"
+      },
+      {
+        "keyword": "avoid certain",
+        "score": 0.1766,
+        "type": "phrase"
+      },
+      {
+        "keyword": "body body",
+        "score": 0.1766,
+        "type": "phrase"
+      },
+      {
+        "keyword": "body body completely",
+        "score": 0.1766,
+        "type": "phrase"
+      },
+      {
+        "keyword": "body completely",
+        "score": 0.1766,
+        "type": "phrase"
+      },
+      {
+        "keyword": "body completely spiritual",
+        "score": 0.1766,
+        "type": "phrase"
+      }
+    ],
+    "17": [
+      {
+        "keyword": "prasadam",
+        "score": 0.4363,
+        "type": "word"
+      },
+      {
+        "keyword": "heid",
+        "score": 0.363,
+        "type": "word"
+      },
+      {
+        "keyword": "rice",
+        "score": 0.363,
+        "type": "word"
+      },
+      {
+        "keyword": "spiritual",
+        "score": 0.2786,
+        "type": "word"
+      },
+      {
+        "keyword": "good",
+        "score": 0.2363,
+        "type": "word"
+      },
+      {
+        "keyword": "completely",
+        "score": 0.2219,
+        "type": "word"
+      },
+      {
+        "keyword": "avoid certain",
+        "score": 0.1655,
+        "type": "phrase"
+      },
+      {
+        "keyword": "part",
+        "score": 0.1655,
+        "type": "word"
+      },
+      {
+        "keyword": "certain",
+        "score": 0.1542,
+        "type": "word"
+      },
+      {
+        "keyword": "discriminate",
+        "score": 0.1542,
+        "type": "word"
+      }
+    ],
+    "18": [
+      {
+        "keyword": "dream",
+        "score": 0.3211,
+        "type": "word"
+      },
+      {
+        "keyword": "bhadra",
+        "score": 0.3206,
+        "type": "word"
+      },
+      {
+        "keyword": "good",
+        "score": 0.2609,
+        "type": "word"
+      },
+      {
+        "keyword": "ae sabh",
+        "score": 0.2404,
+        "type": "phrase"
+      },
+      {
+        "keyword": "sabh",
+        "score": 0.2404,
+        "type": "word"
+      },
+      {
+        "keyword": "bad",
+        "score": 0.162,
+        "type": "word"
+      },
+      {
+        "keyword": "mano",
+        "score": 0.1603,
+        "type": "word"
+      },
+      {
+        "keyword": "mano dharma",
+        "score": 0.1603,
+        "type": "phrase"
+      },
+      {
+        "keyword": "material perspective",
+        "score": 0.1603,
+        "type": "phrase"
+      },
+      {
+        "keyword": "perspective",
+        "score": 0.1603,
+        "type": "word"
+      }
+    ],
+    "19": [
+      {
+        "keyword": "good",
+        "score": 0.7026,
+        "type": "word"
+      },
+      {
+        "keyword": "favourable",
+        "score": 0.4325,
+        "type": "word"
+      },
+      {
+        "keyword": "good bad",
+        "score": 0.4325,
+        "type": "phrase"
+      },
+      {
+        "keyword": "bad",
+        "score": 0.3637,
+        "type": "word"
+      }
+    ],
+    "20": [
+      {
+        "keyword": "dream",
+        "score": 0.4283,
+        "type": "word"
+      },
+      {
+        "keyword": "concoction",
+        "score": 0.3406,
+        "type": "word"
+      },
+      {
+        "keyword": "illusion",
+        "score": 0.3406,
+        "type": "word"
+      },
+      {
+        "keyword": "mental",
+        "score": 0.3406,
+        "type": "word"
+      },
+      {
+        "keyword": "mental concoction",
+        "score": 0.3406,
+        "type": "phrase"
+      },
+      {
+        "keyword": "desires",
+        "score": 0.2701,
+        "type": "word"
+      },
+      {
+        "keyword": "prajahati",
+        "score": 0.2438,
+        "type": "word"
+      },
+      {
+        "keyword": "gross",
+        "score": 0.1219,
+        "type": "word"
+      },
+      {
+        "keyword": "gross dream",
+        "score": 0.1219,
+        "type": "phrase"
+      },
+      {
+        "keyword": "mental concoction dream",
+        "score": 0.1219,
+        "type": "phrase"
+      }
+    ],
+    "21": [
+      {
+        "keyword": "liberated platform",
+        "score": 0.3996,
+        "type": "phrase"
+      },
+      {
+        "keyword": "sannyasi",
+        "score": 0.3996,
+        "type": "word"
+      },
+      {
+        "keyword": "liberated",
+        "score": 0.351,
+        "type": "word"
+      },
+      {
+        "keyword": "avoid",
+        "score": 0.3191,
+        "type": "word"
+      },
+      {
+        "keyword": "platform",
+        "score": 0.2467,
+        "type": "word"
+      },
+      {
+        "keyword": "desire",
+        "score": 0.234,
+        "type": "word"
+      },
+      {
+        "keyword": "bad",
+        "score": 0.1968,
+        "type": "word"
+      },
+      {
+        "keyword": "nothing good",
+        "score": 0.1332,
+        "type": "phrase"
+      },
+      {
+        "keyword": "one material",
+        "score": 0.1332,
+        "type": "phrase"
+      },
+      {
+        "keyword": "sannyasi sannyasi",
+        "score": 0.1332,
+        "type": "phrase"
+      }
+    ],
+    "22": [
+      {
+        "keyword": "life",
+        "score": 0.3586,
+        "type": "word"
+      },
+      {
+        "keyword": "desire",
+        "score": 0.3314,
+        "type": "word"
+      },
+      {
+        "keyword": "nothing",
+        "score": 0.2893,
+        "type": "word"
+      },
+      {
+        "keyword": "let",
+        "score": 0.2529,
+        "type": "word"
+      },
+      {
+        "keyword": "krishna every",
+        "score": 0.1886,
+        "type": "phrase"
+      },
+      {
+        "keyword": "krishna every moment",
+        "score": 0.1886,
+        "type": "phrase"
+      },
+      {
+        "keyword": "life let",
+        "score": 0.1886,
+        "type": "phrase"
+      },
+      {
+        "keyword": "manaha",
+        "score": 0.1886,
+        "type": "word"
+      },
+      {
+        "keyword": "satisfied",
+        "score": 0.1886,
+        "type": "word"
+      },
+      {
+        "keyword": "spriha",
+        "score": 0.1886,
+        "type": "word"
+      }
+    ],
+    "23": [
+      {
+        "keyword": "dream",
+        "score": 0.573,
+        "type": "word"
+      },
+      {
+        "keyword": "become happy",
+        "score": 0.3913,
+        "type": "phrase"
+      },
+      {
+        "keyword": "happy",
+        "score": 0.3913,
+        "type": "word"
+      },
+      {
+        "keyword": "become",
+        "score": 0.2415,
+        "type": "word"
+      },
+      {
+        "keyword": "shall",
+        "score": 0.2179,
+        "type": "word"
+      },
+      {
+        "keyword": "family",
+        "score": 0.1304,
+        "type": "word"
+      },
+      {
+        "keyword": "happiness",
+        "score": 0.1304,
+        "type": "word"
+      },
+      {
+        "keyword": "lament",
+        "score": 0.1304,
+        "type": "word"
+      },
+      {
+        "keyword": "members",
+        "score": 0.1304,
+        "type": "word"
+      },
+      {
+        "keyword": "one become",
+        "score": 0.1304,
+        "type": "phrase"
+      }
+    ],
+    "24": [
+      {
+        "keyword": "keshu",
+        "score": 0.281,
+        "type": "word"
+      },
+      {
+        "keyword": "krodha",
+        "score": 0.281,
+        "type": "word"
+      },
+      {
+        "keyword": "krodha sittadhir",
+        "score": 0.281,
+        "type": "phrase"
+      },
+      {
+        "keyword": "krodha sittadhir munir",
+        "score": 0.281,
+        "type": "phrase"
+      },
+      {
+        "keyword": "munir",
+        "score": 0.281,
+        "type": "word"
+      },
+      {
+        "keyword": "munir chate",
+        "score": 0.281,
+        "type": "phrase"
+      },
+      {
+        "keyword": "sittadhir",
+        "score": 0.281,
+        "type": "word"
+      },
+      {
+        "keyword": "sittadhir munir",
+        "score": 0.281,
+        "type": "phrase"
+      },
+      {
+        "keyword": "sittadhir munir chate",
+        "score": 0.281,
+        "type": "phrase"
+      },
+      {
+        "keyword": "material",
+        "score": 0.1296,
+        "type": "word"
+      }
+    ],
+    "25": [
+      {
+        "keyword": "attachment",
+        "score": 0.4644,
+        "type": "word"
+      },
+      {
+        "keyword": "parts",
+        "score": 0.4594,
+        "type": "word"
+      },
+      {
+        "keyword": "temporary",
+        "score": 0.419,
+        "type": "word"
+      },
+      {
+        "keyword": "anybody",
+        "score": 0.2095,
+        "type": "word"
+      },
+      {
+        "keyword": "keeps",
+        "score": 0.2095,
+        "type": "word"
+      },
+      {
+        "keyword": "fear",
+        "score": 0.1952,
+        "type": "word"
+      },
+      {
+        "keyword": "illusion",
+        "score": 0.1952,
+        "type": "word"
+      },
+      {
+        "keyword": "external",
+        "score": 0.175,
+        "type": "word"
+      },
+      {
+        "keyword": "otherwise",
+        "score": 0.175,
+        "type": "word"
+      },
+      {
+        "keyword": "one",
+        "score": 0.1742,
+        "type": "word"
+      }
+    ],
+    "26": [
+      {
+        "keyword": "anger",
+        "score": 0.3758,
+        "type": "word"
+      },
+      {
+        "keyword": "freed",
+        "score": 0.3758,
+        "type": "word"
+      },
+      {
+        "keyword": "attachment",
+        "score": 0.2776,
+        "type": "word"
+      },
+      {
+        "keyword": "one freed",
+        "score": 0.2747,
+        "type": "phrase"
+      },
+      {
+        "keyword": "one freed anger",
+        "score": 0.2747,
+        "type": "phrase"
+      },
+      {
+        "keyword": "freed anger",
+        "score": 0.2505,
+        "type": "phrase"
+      },
+      {
+        "keyword": "eternal",
+        "score": 0.2334,
+        "type": "word"
+      },
+      {
+        "keyword": "fear",
+        "score": 0.2334,
+        "type": "word"
+      },
+      {
+        "keyword": "fulfilled",
+        "score": 0.2334,
+        "type": "word"
+      },
+      {
+        "keyword": "completely",
+        "score": 0.1679,
+        "type": "word"
+      }
+    ],
+    "27": [
+      {
+        "keyword": "anger",
+        "score": 0.4237,
+        "type": "word"
+      },
+      {
+        "keyword": "freed",
+        "score": 0.4237,
+        "type": "word"
+      },
+      {
+        "keyword": "completely freed",
+        "score": 0.2825,
+        "type": "phrase"
+      },
+      {
+        "keyword": "freed anger",
+        "score": 0.2825,
+        "type": "phrase"
+      },
+      {
+        "keyword": "material desires",
+        "score": 0.2256,
+        "type": "phrase"
+      },
+      {
+        "keyword": "question",
+        "score": 0.2166,
+        "type": "word"
+      },
+      {
+        "keyword": "desires",
+        "score": 0.2087,
+        "type": "word"
+      },
+      {
+        "keyword": "completely",
+        "score": 0.1894,
+        "type": "word"
+      },
+      {
+        "keyword": "material",
+        "score": 0.1428,
+        "type": "word"
+      },
+      {
+        "keyword": "liberated platform",
+        "score": 0.1412,
+        "type": "phrase"
+      }
+    ],
+    "28": [
+      {
+        "keyword": "without",
+        "score": 0.3344,
+        "type": "word"
+      },
+      {
+        "keyword": "without attachment",
+        "score": 0.3293,
+        "type": "phrase"
+      },
+      {
+        "keyword": "work",
+        "score": 0.2958,
+        "type": "word"
+      },
+      {
+        "keyword": "means",
+        "score": 0.2303,
+        "type": "word"
+      },
+      {
+        "keyword": "attachment",
+        "score": 0.2219,
+        "type": "word"
+      },
+      {
+        "keyword": "attachment without",
+        "score": 0.2195,
+        "type": "phrase"
+      },
+      {
+        "keyword": "gives detachment",
+        "score": 0.2195,
+        "type": "phrase"
+      },
+      {
+        "keyword": "karma",
+        "score": 0.2195,
+        "type": "word"
+      },
+      {
+        "keyword": "krishna repeating",
+        "score": 0.2195,
+        "type": "phrase"
+      },
+      {
+        "keyword": "naha",
+        "score": 0.2195,
+        "type": "word"
+      }
+    ],
+    "29": [
+      {
+        "keyword": "ashubh",
+        "score": 0.4659,
+        "type": "word"
+      },
+      {
+        "keyword": "everything",
+        "score": 0.3258,
+        "type": "word"
+      },
+      {
+        "keyword": "ashubh everything",
+        "score": 0.3106,
+        "type": "phrase"
+      },
+      {
+        "keyword": "auspicious",
+        "score": 0.3106,
+        "type": "word"
+      },
+      {
+        "keyword": "forgotten",
+        "score": 0.3106,
+        "type": "word"
+      },
+      {
+        "keyword": "shubh",
+        "score": 0.3106,
+        "type": "word"
+      },
+      {
+        "keyword": "shubh ashubh",
+        "score": 0.3106,
+        "type": "phrase"
+      },
+      {
+        "keyword": "fixed",
+        "score": 0.1417,
+        "type": "word"
+      },
+      {
+        "keyword": "hours",
+        "score": 0.1417,
+        "type": "word"
+      },
+      {
+        "keyword": "rejoice",
+        "score": 0.1417,
+        "type": "word"
+      }
+    ],
+    "30": [
+      {
+        "keyword": "senses",
+        "score": 0.4656,
+        "type": "word"
+      },
+      {
+        "keyword": "sense",
+        "score": 0.3725,
+        "type": "word"
+      },
+      {
+        "keyword": "gratification",
+        "score": 0.2042,
+        "type": "word"
+      },
+      {
+        "keyword": "inside",
+        "score": 0.2042,
+        "type": "word"
+      },
+      {
+        "keyword": "kurma",
+        "score": 0.2042,
+        "type": "word"
+      },
+      {
+        "keyword": "let act",
+        "score": 0.2042,
+        "type": "phrase"
+      },
+      {
+        "keyword": "limbs",
+        "score": 0.2042,
+        "type": "word"
+      },
+      {
+        "keyword": "one able withdraw",
+        "score": 0.2042,
+        "type": "phrase"
+      },
+      {
+        "keyword": "sense gratification",
+        "score": 0.2042,
+        "type": "phrase"
+      },
+      {
+        "keyword": "shell",
+        "score": 0.2042,
+        "type": "word"
+      }
+    ],
+    "31": [
+      {
+        "keyword": "trying",
+        "score": 0.4316,
+        "type": "word"
+      },
+      {
+        "keyword": "attain",
+        "score": 0.3869,
+        "type": "word"
+      },
+      {
+        "keyword": "long",
+        "score": 0.2713,
+        "type": "word"
+      },
+      {
+        "keyword": "krishna",
+        "score": 0.2372,
+        "type": "word"
+      },
+      {
+        "keyword": "also",
+        "score": 0.2096,
+        "type": "word"
+      },
+      {
+        "keyword": "many",
+        "score": 0.1815,
+        "type": "word"
+      },
+      {
+        "keyword": "attain perfection",
+        "score": 0.1544,
+        "type": "phrase"
+      },
+      {
+        "keyword": "first loka",
+        "score": 0.1544,
+        "type": "phrase"
+      },
+      {
+        "keyword": "many many years",
+        "score": 0.1544,
+        "type": "phrase"
+      },
+      {
+        "keyword": "many years",
+        "score": 0.1544,
+        "type": "phrase"
+      }
+    ],
+    "32": [
+      {
+        "keyword": "dritrastra",
+        "score": 0.5513,
+        "type": "word"
+      },
+      {
+        "keyword": "calculation",
+        "score": 0.4418,
+        "type": "word"
+      },
+      {
+        "keyword": "spoken",
+        "score": 0.3675,
+        "type": "word"
+      },
+      {
+        "keyword": "first loka",
+        "score": 0.3352,
+        "type": "phrase"
+      },
+      {
+        "keyword": "loka",
+        "score": 0.3123,
+        "type": "word"
+      },
+      {
+        "keyword": "first",
+        "score": 0.2393,
+        "type": "word"
+      },
+      {
+        "keyword": "happen",
+        "score": 0.1285,
+        "type": "word"
+      },
+      {
+        "keyword": "position",
+        "score": 0.1285,
+        "type": "word"
+      },
+      {
+        "keyword": "nobody",
+        "score": 0.1196,
+        "type": "word"
+      },
+      {
+        "keyword": "situation",
+        "score": 0.1124,
+        "type": "word"
+      }
+    ],
+    "33": [
+      {
+        "keyword": "present",
+        "score": 0.5316,
+        "type": "word"
+      },
+      {
+        "keyword": "fight",
+        "score": 0.3718,
+        "type": "word"
+      },
+      {
+        "keyword": "happen",
+        "score": 0.3718,
+        "type": "word"
+      },
+      {
+        "keyword": "krishna",
+        "score": 0.2793,
+        "type": "word"
+      },
+      {
+        "keyword": "anxious",
+        "score": 0.2424,
+        "type": "word"
+      },
+      {
+        "keyword": "son",
+        "score": 0.2424,
+        "type": "word"
+      },
+      {
+        "keyword": "dear",
+        "score": 0.213,
+        "type": "word"
+      },
+      {
+        "keyword": "lord krishna",
+        "score": 0.213,
+        "type": "phrase"
+      },
+      {
+        "keyword": "lose",
+        "score": 0.213,
+        "type": "word"
+      },
+      {
+        "keyword": "even though",
+        "score": 0.173,
+        "type": "phrase"
+      }
+    ],
+    "34": [
+      {
+        "keyword": "anxious",
+        "score": 0.579,
+        "type": "word"
+      },
+      {
+        "keyword": "krishna god",
+        "score": 0.3237,
+        "type": "phrase"
+      },
+      {
+        "keyword": "anxious dhritarastra",
+        "score": 0.254,
+        "type": "phrase"
+      },
+      {
+        "keyword": "krishna desires",
+        "score": 0.254,
+        "type": "phrase"
+      },
+      {
+        "keyword": "shelter krishna",
+        "score": 0.254,
+        "type": "phrase"
+      },
+      {
+        "keyword": "god",
+        "score": 0.2401,
+        "type": "word"
+      },
+      {
+        "keyword": "krishna",
+        "score": 0.2224,
+        "type": "word"
+      },
+      {
+        "keyword": "dhritarastra",
+        "score": 0.2158,
+        "type": "word"
+      },
+      {
+        "keyword": "shelter",
+        "score": 0.2158,
+        "type": "word"
+      },
+      {
+        "keyword": "desires",
+        "score": 0.1711,
+        "type": "word"
+      }
+    ],
+    "35": [
+      {
+        "keyword": "krishna god",
+        "score": 0.4729,
+        "type": "phrase"
+      },
+      {
+        "keyword": "krishna",
+        "score": 0.3899,
+        "type": "word"
+      },
+      {
+        "keyword": "continue",
+        "score": 0.3547,
+        "type": "word"
+      },
+      {
+        "keyword": "god",
+        "score": 0.3508,
+        "type": "word"
+      },
+      {
+        "keyword": "let continue",
+        "score": 0.2783,
+        "type": "phrase"
+      },
+      {
+        "keyword": "dhritarastra",
+        "score": 0.2364,
+        "type": "word"
+      },
+      {
+        "keyword": "let",
+        "score": 0.1701,
+        "type": "word"
+      },
+      {
+        "keyword": "god krishna",
+        "score": 0.1269,
+        "type": "phrase"
+      },
+      {
+        "keyword": "krishna consciousness movement",
+        "score": 0.1269,
+        "type": "phrase"
+      },
+      {
+        "keyword": "krishna god krishna",
+        "score": 0.1269,
+        "type": "phrase"
+      }
+    ],
+    "36": [
+      {
+        "keyword": "attachments",
+        "score": 0.3324,
+        "type": "word"
+      },
+      {
+        "keyword": "material attachments",
+        "score": 0.3324,
+        "type": "phrase"
+      },
+      {
+        "keyword": "material",
+        "score": 0.3065,
+        "type": "word"
+      },
+      {
+        "keyword": "much",
+        "score": 0.3048,
+        "type": "word"
+      },
+      {
+        "keyword": "open",
+        "score": 0.3031,
+        "type": "word"
+      },
+      {
+        "keyword": "eyes",
+        "score": 0.2824,
+        "type": "word"
+      },
+      {
+        "keyword": "easy",
+        "score": 0.2164,
+        "type": "word"
+      },
+      {
+        "keyword": "attached",
+        "score": 0.1516,
+        "type": "word"
+      },
+      {
+        "keyword": "concept",
+        "score": 0.1516,
+        "type": "word"
+      },
+      {
+        "keyword": "rule",
+        "score": 0.1516,
+        "type": "word"
+      }
+    ],
+    "37": [
+      {
+        "keyword": "master",
+        "score": 0.5715,
+        "type": "word"
+      },
+      {
+        "keyword": "spiritual master",
+        "score": 0.4572,
+        "type": "phrase"
+      },
+      {
+        "keyword": "spiritual",
+        "score": 0.3212,
+        "type": "word"
+      },
+      {
+        "keyword": "without",
+        "score": 0.2391,
+        "type": "word"
+      },
+      {
+        "keyword": "mercy",
+        "score": 0.1431,
+        "type": "word"
+      },
+      {
+        "keyword": "one immediately",
+        "score": 0.1431,
+        "type": "phrase"
+      },
+      {
+        "keyword": "possible",
+        "score": 0.1431,
+        "type": "word"
+      },
+      {
+        "keyword": "duality",
+        "score": 0.1333,
+        "type": "word"
+      },
+      {
+        "keyword": "immediately",
+        "score": 0.1333,
+        "type": "word"
+      },
+      {
+        "keyword": "loka",
+        "score": 0.1333,
+        "type": "word"
+      }
+    ],
+    "38": [
+      {
+        "keyword": "thakur",
+        "score": 0.3553,
+        "type": "word"
+      },
+      {
+        "keyword": "place",
+        "score": 0.3121,
+        "type": "word"
+      },
+      {
+        "keyword": "chant",
+        "score": 0.2837,
+        "type": "word"
+      },
+      {
+        "keyword": "hare",
+        "score": 0.2837,
+        "type": "word"
+      },
+      {
+        "keyword": "hare krishna",
+        "score": 0.2837,
+        "type": "phrase"
+      },
+      {
+        "keyword": "bhakti",
+        "score": 0.2724,
+        "type": "word"
+      },
+      {
+        "keyword": "prabhupāda",
+        "score": 0.2625,
+        "type": "word"
+      },
+      {
+        "keyword": "actual",
+        "score": 0.1776,
+        "type": "word"
+      },
+      {
+        "keyword": "one place",
+        "score": 0.1776,
+        "type": "phrase"
+      },
+      {
+        "keyword": "opposing",
+        "score": 0.1776,
+        "type": "word"
+      }
+    ],
+    "39": [
+      {
+        "keyword": "انت",
+        "score": 0.7381,
+        "type": "word"
+      },
+      {
+        "keyword": "دور",
+        "score": 0.3468,
+        "type": "word"
+      },
+      {
+        "keyword": "پیپل",
+        "score": 0.3468,
+        "type": "word"
+      },
+      {
+        "keyword": "رہے",
+        "score": 0.2312,
+        "type": "word"
+      },
+      {
+        "keyword": "رہے ہیں",
+        "score": 0.2312,
+        "type": "phrase"
+      },
+      {
+        "keyword": "سگویں",
+        "score": 0.2312,
+        "type": "word"
+      }
+    ],
+    "40": [
+      {
+        "keyword": "cultivation",
+        "score": 0.3752,
+        "type": "word"
+      },
+      {
+        "keyword": "cultivation krishna",
+        "score": 0.3752,
+        "type": "phrase"
+      },
+      {
+        "keyword": "cultivation krishna consciousness",
+        "score": 0.3752,
+        "type": "phrase"
+      },
+      {
+        "keyword": "krishna consciousness",
+        "score": 0.2877,
+        "type": "phrase"
+      },
+      {
+        "keyword": "consciousness",
+        "score": 0.2678,
+        "type": "word"
+      },
+      {
+        "keyword": "defeat",
+        "score": 0.1876,
+        "type": "word"
+      },
+      {
+        "keyword": "live",
+        "score": 0.1876,
+        "type": "word"
+      },
+      {
+        "keyword": "opposing",
+        "score": 0.1876,
+        "type": "word"
+      },
+      {
+        "keyword": "opposing elements",
+        "score": 0.1876,
+        "type": "phrase"
+      },
+      {
+        "keyword": "انت",
+        "score": 0.1876,
+        "type": "word"
+      }
+    ],
+    "41": [
+      {
+        "keyword": "hours",
+        "score": 0.6331,
+        "type": "word"
+      },
+      {
+        "keyword": "peacefully",
+        "score": 0.3165,
+        "type": "word"
+      },
+      {
+        "keyword": "close",
+        "score": 0.2949,
+        "type": "word"
+      },
+      {
+        "keyword": "eyes",
+        "score": 0.2949,
+        "type": "word"
+      },
+      {
+        "keyword": "half",
+        "score": 0.2949,
+        "type": "word"
+      },
+      {
+        "keyword": "chanting",
+        "score": 0.2259,
+        "type": "word"
+      }
+    ],
+    "42": [
+      {
+        "keyword": "chanting hare",
+        "score": 0.3588,
+        "type": "phrase"
+      },
+      {
+        "keyword": "chanting hare krishna",
+        "score": 0.3588,
+        "type": "phrase"
+      },
+      {
+        "keyword": "chanting",
+        "score": 0.3201,
+        "type": "word"
+      },
+      {
+        "keyword": "trance",
+        "score": 0.2951,
+        "type": "word"
+      },
+      {
+        "keyword": "hare",
+        "score": 0.2865,
+        "type": "word"
+      },
+      {
+        "keyword": "hare krishna",
+        "score": 0.2865,
+        "type": "phrase"
+      },
+      {
+        "keyword": "krishna",
+        "score": 0.2067,
+        "type": "word"
+      },
+      {
+        "keyword": "impersonal",
+        "score": 0.1967,
+        "type": "word"
+      },
+      {
+        "keyword": "impersonal trance",
+        "score": 0.1967,
+        "type": "phrase"
+      },
+      {
+        "keyword": "also",
+        "score": 0.1624,
+        "type": "word"
+      }
+    ],
+    "43": [
+      {
+        "keyword": "devotees",
+        "score": 0.4161,
+        "type": "word"
+      },
+      {
+        "keyword": "much",
+        "score": 0.3908,
+        "type": "word"
+      },
+      {
+        "keyword": "careful",
+        "score": 0.3887,
+        "type": "word"
+      },
+      {
+        "keyword": "although",
+        "score": 0.3246,
+        "type": "word"
+      },
+      {
+        "keyword": "chanting",
+        "score": 0.2774,
+        "type": "word"
+      },
+      {
+        "keyword": "able",
+        "score": 0.2399,
+        "type": "word"
+      },
+      {
+        "keyword": "laborious",
+        "score": 0.1943,
+        "type": "word"
+      },
+      {
+        "keyword": "possible",
+        "score": 0.1943,
+        "type": "word"
+      },
+      {
+        "keyword": "thus",
+        "score": 0.1927,
+        "type": "word"
+      },
+      {
+        "keyword": "practice",
+        "score": 0.181,
+        "type": "word"
+      }
+    ],
+    "44": [
+      {
+        "keyword": "preaches",
+        "score": 0.2518,
+        "type": "word"
+      },
+      {
+        "keyword": "krishna",
+        "score": 0.2202,
+        "type": "word"
+      },
+      {
+        "keyword": "hard",
+        "score": 0.2198,
+        "type": "word"
+      },
+      {
+        "keyword": "nobody",
+        "score": 0.2046,
+        "type": "word"
+      },
+      {
+        "keyword": "nobody preaches",
+        "score": 0.1886,
+        "type": "phrase"
+      },
+      {
+        "keyword": "realise",
+        "score": 0.1886,
+        "type": "word"
+      },
+      {
+        "keyword": "able",
+        "score": 0.177,
+        "type": "word"
+      },
+      {
+        "keyword": "krishna consciousness",
+        "score": 0.1758,
+        "type": "phrase"
+      },
+      {
+        "keyword": "secret",
+        "score": 0.172,
+        "type": "word"
+      },
+      {
+        "keyword": "chanting",
+        "score": 0.1637,
+        "type": "word"
+      }
+    ],
+    "45": [
+      {
+        "keyword": "spiritual",
+        "score": 0.3174,
+        "type": "word"
+      },
+      {
+        "keyword": "acharya",
+        "score": 0.2485,
+        "type": "word"
+      },
+      {
+        "keyword": "able",
+        "score": 0.2328,
+        "type": "word"
+      },
+      {
+        "keyword": "krishna",
+        "score": 0.2173,
+        "type": "word"
+      },
+      {
+        "keyword": "hard",
+        "score": 0.2169,
+        "type": "word"
+      },
+      {
+        "keyword": "spiritual potency",
+        "score": 0.2068,
+        "type": "phrase"
+      },
+      {
+        "keyword": "convince",
+        "score": 0.1886,
+        "type": "word"
+      },
+      {
+        "keyword": "potency",
+        "score": 0.1886,
+        "type": "word"
+      },
+      {
+        "keyword": "moment",
+        "score": 0.1657,
+        "type": "word"
+      },
+      {
+        "keyword": "spiritual life",
+        "score": 0.1657,
+        "type": "phrase"
+      }
+    ],
+    "46": [
+      {
+        "keyword": "spiritual ecstasy",
+        "score": 0.3529,
+        "type": "phrase"
+      },
+      {
+        "keyword": "conscious",
+        "score": 0.3287,
+        "type": "word"
+      },
+      {
+        "keyword": "immediately",
+        "score": 0.3287,
+        "type": "word"
+      },
+      {
+        "keyword": "questions",
+        "score": 0.3287,
+        "type": "word"
+      },
+      {
+        "keyword": "became",
+        "score": 0.31,
+        "type": "word"
+      },
+      {
+        "keyword": "hear",
+        "score": 0.31,
+        "type": "word"
+      },
+      {
+        "keyword": "lord krishna",
+        "score": 0.31,
+        "type": "phrase"
+      },
+      {
+        "keyword": "soon",
+        "score": 0.2947,
+        "type": "word"
+      },
+      {
+        "keyword": "krishna",
+        "score": 0.2711,
+        "type": "word"
+      },
+      {
+        "keyword": "lord",
+        "score": 0.2519,
+        "type": "word"
+      }
+    ],
+    "47": [
+      {
+        "keyword": "ask ask ask",
+        "score": 0.6045,
+        "type": "phrase"
+      },
+      {
+        "keyword": "ask ask",
+        "score": 0.5838,
+        "type": "phrase"
+      },
+      {
+        "keyword": "ask",
+        "score": 0.5414,
+        "type": "word"
+      },
+      {
+        "keyword": "question",
+        "score": 0.0249,
+        "type": "word"
+      }
+    ],
+    "48": [
+      {
+        "keyword": "पर पर",
+        "score": 0.5933,
+        "type": "phrase"
+      },
+      {
+        "keyword": "पर पर पर",
+        "score": 0.5849,
+        "type": "phrase"
+      },
+      {
+        "keyword": "also nicely",
+        "score": 0.0334,
+        "type": "phrase"
+      },
+      {
+        "keyword": "nicely",
+        "score": 0.0225,
+        "type": "word"
+      },
+      {
+        "keyword": "also",
+        "score": 0.0207,
+        "type": "word"
+      },
+      {
+        "keyword": "also nicely karm",
+        "score": 0.0167,
+        "type": "phrase"
+      },
+      {
+        "keyword": "karm",
+        "score": 0.0167,
+        "type": "word"
+      },
+      {
+        "keyword": "karm also",
+        "score": 0.0167,
+        "type": "phrase"
+      },
+      {
+        "keyword": "karm also nicely",
+        "score": 0.0167,
+        "type": "phrase"
+      },
+      {
+        "keyword": "nicely karm",
+        "score": 0.0167,
+        "type": "phrase"
+      }
+    ],
+    "49": [
+      {
+        "keyword": "doer",
+        "score": 0.5627,
+        "type": "word"
+      },
+      {
+        "keyword": "one consider",
+        "score": 0.3751,
+        "type": "phrase"
+      },
+      {
+        "keyword": "consider",
+        "score": 0.3187,
+        "type": "word"
+      },
+      {
+        "keyword": "understand",
+        "score": 0.1764,
+        "type": "word"
+      },
+      {
+        "keyword": "act",
+        "score": 0.1711,
+        "type": "word"
+      },
+      {
+        "keyword": "instrument",
+        "score": 0.1711,
+        "type": "word"
+      },
+      {
+        "keyword": "manani",
+        "score": 0.1711,
+        "type": "word"
+      },
+      {
+        "keyword": "online",
+        "score": 0.1711,
+        "type": "word"
+      },
+      {
+        "keyword": "pitching",
+        "score": 0.1711,
+        "type": "word"
+      },
+      {
+        "keyword": "material nature",
+        "score": 0.1594,
+        "type": "phrase"
+      }
+    ],
+    "50": [
+      {
+        "keyword": "working",
+        "score": 0.4807,
+        "type": "word"
+      },
+      {
+        "keyword": "shematir",
+        "score": 0.3,
+        "type": "word"
+      },
+      {
+        "keyword": "shematir adharani",
+        "score": 0.3,
+        "type": "phrase"
+      },
+      {
+        "keyword": "instrument",
+        "score": 0.2736,
+        "type": "word"
+      },
+      {
+        "keyword": "knowledge",
+        "score": 0.2404,
+        "type": "word"
+      },
+      {
+        "keyword": "given",
+        "score": 0.2285,
+        "type": "word"
+      },
+      {
+        "keyword": "krishna",
+        "score": 0.2102,
+        "type": "word"
+      },
+      {
+        "keyword": "body",
+        "score": 0.1834,
+        "type": "word"
+      },
+      {
+        "keyword": "also krishna",
+        "score": 0.1368,
+        "type": "phrase"
+      },
+      {
+        "keyword": "given krishna",
+        "score": 0.1368,
+        "type": "phrase"
+      }
+    ],
+    "51": [
+      {
+        "keyword": "son",
+        "score": 0.5569,
+        "type": "word"
+      },
+      {
+        "keyword": "son vasudev",
+        "score": 0.3664,
+        "type": "phrase"
+      },
+      {
+        "keyword": "vasudev",
+        "score": 0.3664,
+        "type": "word"
+      },
+      {
+        "keyword": "shrava",
+        "score": 0.2442,
+        "type": "word"
+      },
+      {
+        "keyword": "son vasudev even",
+        "score": 0.2442,
+        "type": "phrase"
+      },
+      {
+        "keyword": "krishna",
+        "score": 0.2139,
+        "type": "word"
+      },
+      {
+        "keyword": "even",
+        "score": 0.1918,
+        "type": "word"
+      },
+      {
+        "keyword": "instructions",
+        "score": 0.1646,
+        "type": "word"
+      },
+      {
+        "keyword": "much",
+        "score": 0.1493,
+        "type": "word"
+      },
+      {
+        "keyword": "attached",
+        "score": 0.1114,
+        "type": "word"
+      }
+    ],
+    "52": [
+      {
+        "keyword": "dangerous",
+        "score": 0.5133,
+        "type": "word"
+      },
+      {
+        "keyword": "preach",
+        "score": 0.3694,
+        "type": "word"
+      },
+      {
+        "keyword": "feel bad",
+        "score": 0.3673,
+        "type": "phrase"
+      },
+      {
+        "keyword": "becomes",
+        "score": 0.3227,
+        "type": "word"
+      },
+      {
+        "keyword": "bad",
+        "score": 0.2714,
+        "type": "word"
+      },
+      {
+        "keyword": "feel",
+        "score": 0.2714,
+        "type": "word"
+      },
+      {
+        "keyword": "mind feel",
+        "score": 0.1837,
+        "type": "phrase"
+      },
+      {
+        "keyword": "mind feel bad",
+        "score": 0.1837,
+        "type": "phrase"
+      },
+      {
+        "keyword": "senses",
+        "score": 0.1837,
+        "type": "word"
+      },
+      {
+        "keyword": "mind",
+        "score": 0.1613,
+        "type": "word"
+      }
+    ],
+    "53": [
+      {
+        "keyword": "preaching",
+        "score": 0.4327,
+        "type": "word"
+      },
+      {
+        "keyword": "krishna krishna",
+        "score": 0.354,
+        "type": "phrase"
+      },
+      {
+        "keyword": "krishna",
+        "score": 0.2761,
+        "type": "word"
+      },
+      {
+        "keyword": "back",
+        "score": 0.2396,
+        "type": "word"
+      },
+      {
+        "keyword": "fact",
+        "score": 0.2396,
+        "type": "word"
+      },
+      {
+        "keyword": "feeling",
+        "score": 0.2396,
+        "type": "word"
+      },
+      {
+        "keyword": "krishna kind",
+        "score": 0.2396,
+        "type": "phrase"
+      },
+      {
+        "keyword": "naked",
+        "score": 0.2396,
+        "type": "word"
+      },
+      {
+        "keyword": "office",
+        "score": 0.2396,
+        "type": "word"
+      },
+      {
+        "keyword": "dangerous",
+        "score": 0.2232,
+        "type": "word"
+      }
+    ],
+    "54": [
+      {
+        "keyword": "office",
+        "score": 0.827,
+        "type": "word"
+      },
+      {
+        "keyword": "work",
+        "score": 0.3055,
+        "type": "word"
+      },
+      {
+        "keyword": "asked",
+        "score": 0.2067,
+        "type": "word"
+      },
+      {
+        "keyword": "different",
+        "score": 0.1816,
+        "type": "word"
+      },
+      {
+        "keyword": "prasadam",
+        "score": 0.1816,
+        "type": "word"
+      },
+      {
+        "keyword": "nice",
+        "score": 0.1651,
+        "type": "word"
+      },
+      {
+        "keyword": "question",
+        "score": 0.1585,
+        "type": "word"
+      },
+      {
+        "keyword": "bad",
+        "score": 0.1527,
+        "type": "word"
+      },
+      {
+        "keyword": "much",
+        "score": 0.1386,
+        "type": "word"
+      },
+      {
+        "keyword": "would",
+        "score": 0.1386,
+        "type": "word"
+      }
+    ],
+    "55": [
+      {
+        "keyword": "outside",
+        "score": 0.5108,
+        "type": "word"
+      },
+      {
+        "keyword": "places",
+        "score": 0.425,
+        "type": "word"
+      },
+      {
+        "keyword": "sitting",
+        "score": 0.3877,
+        "type": "word"
+      },
+      {
+        "keyword": "preach",
+        "score": 0.2599,
+        "type": "word"
+      },
+      {
+        "keyword": "naked",
+        "score": 0.1938,
+        "type": "word"
+      },
+      {
+        "keyword": "reach",
+        "score": 0.1938,
+        "type": "word"
+      },
+      {
+        "keyword": "close",
+        "score": 0.1806,
+        "type": "word"
+      },
+      {
+        "keyword": "couple",
+        "score": 0.1806,
+        "type": "word"
+      },
+      {
+        "keyword": "half",
+        "score": 0.1806,
+        "type": "word"
+      },
+      {
+        "keyword": "favourable",
+        "score": 0.1703,
+        "type": "word"
+      }
+    ],
+    "56": [
+      {
+        "keyword": "anandis",
+        "score": 0.3652,
+        "type": "word"
+      },
+      {
+        "keyword": "devotees",
+        "score": 0.3566,
+        "type": "word"
+      },
+      {
+        "keyword": "continue",
+        "score": 0.3103,
+        "type": "word"
+      },
+      {
+        "keyword": "new",
+        "score": 0.3103,
+        "type": "word"
+      },
+      {
+        "keyword": "preaching",
+        "score": 0.3007,
+        "type": "word"
+      },
+      {
+        "keyword": "even",
+        "score": 0.1912,
+        "type": "word"
+      },
+      {
+        "keyword": "away",
+        "score": 0.1665,
+        "type": "word"
+      },
+      {
+        "keyword": "potency",
+        "score": 0.1665,
+        "type": "word"
+      },
+      {
+        "keyword": "powerful",
+        "score": 0.1665,
+        "type": "word"
+      },
+      {
+        "keyword": "rather",
+        "score": 0.1551,
+        "type": "word"
+      }
+    ],
+    "57": [
+      {
+        "keyword": "new devotee",
+        "score": 0.3087,
+        "type": "phrase"
+      },
+      {
+        "keyword": "stop",
+        "score": 0.3087,
+        "type": "word"
+      },
+      {
+        "keyword": "strong",
+        "score": 0.2815,
+        "type": "word"
+      },
+      {
+        "keyword": "new",
+        "score": 0.2623,
+        "type": "word"
+      },
+      {
+        "keyword": "might",
+        "score": 0.2473,
+        "type": "word"
+      },
+      {
+        "keyword": "prabhupāda",
+        "score": 0.208,
+        "type": "word"
+      },
+      {
+        "keyword": "preach",
+        "score": 0.1887,
+        "type": "word"
+      },
+      {
+        "keyword": "become",
+        "score": 0.1738,
+        "type": "word"
+      },
+      {
+        "keyword": "devotee",
+        "score": 0.1738,
+        "type": "word"
+      },
+      {
+        "keyword": "book",
+        "score": 0.1408,
+        "type": "word"
+      }
+    ],
+    "58": [
+      {
+        "keyword": "nandhi",
+        "score": 0.5126,
+        "type": "word"
+      },
+      {
+        "keyword": "preach",
+        "score": 0.2686,
+        "type": "word"
+      },
+      {
+        "keyword": "devotees",
+        "score": 0.2383,
+        "type": "word"
+      },
+      {
+        "keyword": "become vajananandhi",
+        "score": 0.2197,
+        "type": "phrase"
+      },
+      {
+        "keyword": "bhajna",
+        "score": 0.2197,
+        "type": "word"
+      },
+      {
+        "keyword": "bhajna nandhi",
+        "score": 0.2197,
+        "type": "phrase"
+      },
+      {
+        "keyword": "vajan",
+        "score": 0.2197,
+        "type": "word"
+      },
+      {
+        "keyword": "vajananandhi",
+        "score": 0.2197,
+        "type": "word"
+      },
+      {
+        "keyword": "devotee",
+        "score": 0.1649,
+        "type": "word"
+      },
+      {
+        "keyword": "gosh",
+        "score": 0.1465,
+        "type": "word"
+      }
+    ],
+    "59": [
+      {
+        "keyword": "bhajan",
+        "score": 0.2443,
+        "type": "word"
+      },
+      {
+        "keyword": "fight",
+        "score": 0.2011,
+        "type": "word"
+      },
+      {
+        "keyword": "areas",
+        "score": 0.1917,
+        "type": "word"
+      },
+      {
+        "keyword": "body shatriya",
+        "score": 0.1917,
+        "type": "phrase"
+      },
+      {
+        "keyword": "fruits",
+        "score": 0.1917,
+        "type": "word"
+      },
+      {
+        "keyword": "living rindavan",
+        "score": 0.1917,
+        "type": "phrase"
+      },
+      {
+        "keyword": "rh areas",
+        "score": 0.1917,
+        "type": "phrase"
+      },
+      {
+        "keyword": "rindavan",
+        "score": 0.1917,
+        "type": "word"
+      },
+      {
+        "keyword": "shatriya",
+        "score": 0.1917,
+        "type": "word"
+      },
+      {
+        "keyword": "body",
+        "score": 0.1758,
+        "type": "word"
+      }
+    ],
+    "60": [
+      {
+        "keyword": "sampradaya",
+        "score": 0.4963,
+        "type": "word"
+      },
+      {
+        "keyword": "pradaya",
+        "score": 0.3308,
+        "type": "word"
+      },
+      {
+        "keyword": "sam pradaya",
+        "score": 0.3308,
+        "type": "phrase"
+      },
+      {
+        "keyword": "sam",
+        "score": 0.2907,
+        "type": "word"
+      },
+      {
+        "keyword": "madhva",
+        "score": 0.2721,
+        "type": "word"
+      },
+      {
+        "keyword": "krishna",
+        "score": 0.1906,
+        "type": "word"
+      },
+      {
+        "keyword": "sampradayas",
+        "score": 0.1814,
+        "type": "word"
+      },
+      {
+        "keyword": "summarized",
+        "score": 0.1814,
+        "type": "word"
+      },
+      {
+        "keyword": "four",
+        "score": 0.1541,
+        "type": "word"
+      },
+      {
+        "keyword": "different",
+        "score": 0.1453,
+        "type": "word"
+      }
+    ],
+    "61": [
+      {
+        "keyword": "sampradaya",
+        "score": 0.3148,
+        "type": "word"
+      },
+      {
+        "keyword": "aprabu",
+        "score": 0.2301,
+        "type": "word"
+      },
+      {
+        "keyword": "nema",
+        "score": 0.2301,
+        "type": "word"
+      },
+      {
+        "keyword": "nema aprabu",
+        "score": 0.2301,
+        "type": "phrase"
+      },
+      {
+        "keyword": "nonsense",
+        "score": 0.2301,
+        "type": "word"
+      },
+      {
+        "keyword": "prabhupāda use",
+        "score": 0.2301,
+        "type": "phrase"
+      },
+      {
+        "keyword": "pritivi",
+        "score": 0.2301,
+        "type": "word"
+      },
+      {
+        "keyword": "rinda",
+        "score": 0.2301,
+        "type": "word"
+      },
+      {
+        "keyword": "rinda van",
+        "score": 0.2301,
+        "type": "phrase"
+      },
+      {
+        "keyword": "scriptures",
+        "score": 0.1955,
+        "type": "word"
+      }
+    ],
+    "62": [
+      {
+        "keyword": "worship",
+        "score": 0.2983,
+        "type": "word"
+      },
+      {
+        "keyword": "always chanting",
+        "score": 0.2978,
+        "type": "phrase"
+      },
+      {
+        "keyword": "krishna",
+        "score": 0.2869,
+        "type": "word"
+      },
+      {
+        "keyword": "form",
+        "score": 0.2716,
+        "type": "word"
+      },
+      {
+        "keyword": "worship krishna",
+        "score": 0.2234,
+        "type": "phrase"
+      },
+      {
+        "keyword": "always",
+        "score": 0.2169,
+        "type": "word"
+      },
+      {
+        "keyword": "chanting",
+        "score": 0.1939,
+        "type": "word"
+      },
+      {
+        "keyword": "kṛṣṇa",
+        "score": 0.179,
+        "type": "word"
+      },
+      {
+        "keyword": "name",
+        "score": 0.1701,
+        "type": "word"
+      },
+      {
+        "keyword": "form lord",
+        "score": 0.1489,
+        "type": "phrase"
+      }
+    ],
+    "63": [
+      {
+        "keyword": "ھای",
+        "score": 0.5426,
+        "type": "word"
+      },
+      {
+        "keyword": "ھای ھای",
+        "score": 0.4522,
+        "type": "phrase"
+      },
+      {
+        "keyword": "ھای ھای ھای",
+        "score": 0.3617,
+        "type": "phrase"
+      },
+      {
+        "keyword": "complexion",
+        "score": 0.3074,
+        "type": "word"
+      },
+      {
+        "keyword": "dark complexion",
+        "score": 0.2713,
+        "type": "phrase"
+      },
+      {
+        "keyword": "dark",
+        "score": 0.2474,
+        "type": "word"
+      },
+      {
+        "keyword": "kṛṣṇa",
+        "score": 0.2174,
+        "type": "word"
+      },
+      {
+        "keyword": "lord",
+        "score": 0.1766,
+        "type": "word"
+      },
+      {
+        "keyword": "worships",
+        "score": 0.165,
+        "type": "word"
+      },
+      {
+        "keyword": "sorry",
+        "score": 0.0768,
+        "type": "word"
+      }
+    ],
+    "64": [
+      {
+        "keyword": "godi",
+        "score": 0.3664,
+        "type": "word"
+      },
+      {
+        "keyword": "sampradha",
+        "score": 0.3664,
+        "type": "word"
+      },
+      {
+        "keyword": "acharya",
+        "score": 0.3219,
+        "type": "word"
+      },
+      {
+        "keyword": "spiritual life",
+        "score": 0.3219,
+        "type": "phrase"
+      },
+      {
+        "keyword": "takes",
+        "score": 0.3219,
+        "type": "word"
+      },
+      {
+        "keyword": "activity",
+        "score": 0.306,
+        "type": "word"
+      },
+      {
+        "keyword": "others",
+        "score": 0.306,
+        "type": "word"
+      },
+      {
+        "keyword": "may",
+        "score": 0.2615,
+        "type": "word"
+      },
+      {
+        "keyword": "life",
+        "score": 0.2322,
+        "type": "word"
+      },
+      {
+        "keyword": "spiritual",
+        "score": 0.2056,
+        "type": "word"
+      }
+    ],
+    "65": [
+      {
+        "keyword": "horse",
+        "score": 0.3919,
+        "type": "word"
+      },
+      {
+        "keyword": "bit",
+        "score": 0.2103,
+        "type": "word"
+      },
+      {
+        "keyword": "greatest",
+        "score": 0.2103,
+        "type": "word"
+      },
+      {
+        "keyword": "interpretation",
+        "score": 0.2103,
+        "type": "word"
+      },
+      {
+        "keyword": "interpretation vedas",
+        "score": 0.2103,
+        "type": "phrase"
+      },
+      {
+        "keyword": "neck",
+        "score": 0.2103,
+        "type": "word"
+      },
+      {
+        "keyword": "neck horse",
+        "score": 0.2103,
+        "type": "phrase"
+      },
+      {
+        "keyword": "particular",
+        "score": 0.2103,
+        "type": "word"
+      },
+      {
+        "keyword": "particular situation",
+        "score": 0.2103,
+        "type": "phrase"
+      },
+      {
+        "keyword": "swelling",
+        "score": 0.2103,
+        "type": "word"
+      }
+    ],
+    "66": [
+      {
+        "keyword": "swelling",
+        "score": 0.4513,
+        "type": "word"
+      },
+      {
+        "keyword": "hammer",
+        "score": 0.3711,
+        "type": "word"
+      },
+      {
+        "keyword": "doctor",
+        "score": 0.3385,
+        "type": "word"
+      },
+      {
+        "keyword": "horse",
+        "score": 0.3153,
+        "type": "word"
+      },
+      {
+        "keyword": "squash",
+        "score": 0.2474,
+        "type": "word"
+      },
+      {
+        "keyword": "strike",
+        "score": 0.2474,
+        "type": "word"
+      },
+      {
+        "keyword": "would",
+        "score": 0.2269,
+        "type": "word"
+      },
+      {
+        "keyword": "cured",
+        "score": 0.2257,
+        "type": "word"
+      },
+      {
+        "keyword": "neck",
+        "score": 0.2257,
+        "type": "word"
+      },
+      {
+        "keyword": "stuck",
+        "score": 0.2102,
+        "type": "word"
+      }
+    ],
+    "67": [
+      {
+        "keyword": "particular",
+        "score": 0.5185,
+        "type": "word"
+      },
+      {
+        "keyword": "would",
+        "score": 0.3476,
+        "type": "word"
+      },
+      {
+        "keyword": "particular situation",
+        "score": 0.3457,
+        "type": "phrase"
+      },
+      {
+        "keyword": "vedas",
+        "score": 0.322,
+        "type": "word"
+      },
+      {
+        "keyword": "understanding",
+        "score": 0.2467,
+        "type": "word"
+      },
+      {
+        "keyword": "situation",
+        "score": 0.2317,
+        "type": "word"
+      },
+      {
+        "keyword": "cured",
+        "score": 0.1728,
+        "type": "word"
+      },
+      {
+        "keyword": "interpretation",
+        "score": 0.1728,
+        "type": "word"
+      },
+      {
+        "keyword": "interpretation vedas",
+        "score": 0.1728,
+        "type": "phrase"
+      },
+      {
+        "keyword": "followed",
+        "score": 0.161,
+        "type": "word"
+      }
+    ],
+    "68": [
+      {
+        "keyword": "risk",
+        "score": 0.4217,
+        "type": "word"
+      },
+      {
+        "keyword": "war",
+        "score": 0.2687,
+        "type": "word"
+      },
+      {
+        "keyword": "krishna",
+        "score": 0.2585,
+        "type": "word"
+      },
+      {
+        "keyword": "preaching war",
+        "score": 0.2108,
+        "type": "phrase"
+      },
+      {
+        "keyword": "preaching",
+        "score": 0.2026,
+        "type": "word"
+      },
+      {
+        "keyword": "perfection",
+        "score": 0.1776,
+        "type": "word"
+      },
+      {
+        "keyword": "king",
+        "score": 0.1581,
+        "type": "word"
+      },
+      {
+        "keyword": "king also",
+        "score": 0.1581,
+        "type": "phrase"
+      },
+      {
+        "keyword": "let defeat",
+        "score": 0.1581,
+        "type": "phrase"
+      },
+      {
+        "keyword": "plan",
+        "score": 0.1581,
+        "type": "word"
+      }
+    ],
+    "69": [
+      {
+        "keyword": "step",
+        "score": 0.5255,
+        "type": "word"
+      },
+      {
+        "keyword": "devotees",
+        "score": 0.3421,
+        "type": "word"
+      },
+      {
+        "keyword": "first",
+        "score": 0.3421,
+        "type": "word"
+      },
+      {
+        "keyword": "book",
+        "score": 0.2397,
+        "type": "word"
+      },
+      {
+        "keyword": "book distribution",
+        "score": 0.2397,
+        "type": "phrase"
+      },
+      {
+        "keyword": "books",
+        "score": 0.2397,
+        "type": "word"
+      },
+      {
+        "keyword": "ritann",
+        "score": 0.2397,
+        "type": "word"
+      },
+      {
+        "keyword": "sankey",
+        "score": 0.2397,
+        "type": "word"
+      },
+      {
+        "keyword": "sankey ritann",
+        "score": 0.2397,
+        "type": "phrase"
+      },
+      {
+        "keyword": "seen",
+        "score": 0.2105,
+        "type": "word"
+      }
+    ],
+    "70": [
+      {
+        "keyword": "sorry",
+        "score": 0.3804,
+        "type": "word"
+      },
+      {
+        "keyword": "prabhu",
+        "score": 0.3016,
+        "type": "word"
+      },
+      {
+        "keyword": "preaching",
+        "score": 0.2458,
+        "type": "word"
+      },
+      {
+        "keyword": "feeling",
+        "score": 0.2042,
+        "type": "word"
+      },
+      {
+        "keyword": "form",
+        "score": 0.2042,
+        "type": "word"
+      },
+      {
+        "keyword": "online",
+        "score": 0.2042,
+        "type": "word"
+      },
+      {
+        "keyword": "ritann",
+        "score": 0.2042,
+        "type": "word"
+      },
+      {
+        "keyword": "sankey",
+        "score": 0.2042,
+        "type": "word"
+      },
+      {
+        "keyword": "sankey ritann",
+        "score": 0.2042,
+        "type": "phrase"
+      },
+      {
+        "keyword": "hare krishna prabhu",
+        "score": 0.1902,
+        "type": "phrase"
+      }
+    ],
+    "71": [
+      {
+        "keyword": "preach",
+        "score": 0.3393,
+        "type": "word"
+      },
+      {
+        "keyword": "nicely",
+        "score": 0.3116,
+        "type": "word"
+      },
+      {
+        "keyword": "rules",
+        "score": 0.2695,
+        "type": "word"
+      },
+      {
+        "keyword": "rules regulations",
+        "score": 0.2695,
+        "type": "phrase"
+      },
+      {
+        "keyword": "regulations",
+        "score": 0.2587,
+        "type": "word"
+      },
+      {
+        "keyword": "behave",
+        "score": 0.2358,
+        "type": "word"
+      },
+      {
+        "keyword": "regulations nicely",
+        "score": 0.2358,
+        "type": "phrase"
+      },
+      {
+        "keyword": "rules regulations nicely",
+        "score": 0.2358,
+        "type": "phrase"
+      },
+      {
+        "keyword": "follow",
+        "score": 0.2262,
+        "type": "word"
+      },
+      {
+        "keyword": "preaching",
+        "score": 0.2031,
+        "type": "word"
+      }
+    ],
+    "72": [
+      {
+        "keyword": "somebody",
+        "score": 0.616,
+        "type": "word"
+      },
+      {
+        "keyword": "somebody required",
+        "score": 0.4833,
+        "type": "phrase"
+      },
+      {
+        "keyword": "required",
+        "score": 0.4408,
+        "type": "word"
+      },
+      {
+        "keyword": "soldiers",
+        "score": 0.2416,
+        "type": "word"
+      },
+      {
+        "keyword": "store",
+        "score": 0.2416,
+        "type": "word"
+      },
+      {
+        "keyword": "preaching",
+        "score": 0.1327,
+        "type": "word"
+      },
+      {
+        "keyword": "doctor",
+        "score": 0.1102,
+        "type": "word"
+      },
+      {
+        "keyword": "front",
+        "score": 0.1102,
+        "type": "word"
+      },
+      {
+        "keyword": "read",
+        "score": 0.1027,
+        "type": "word"
+      },
+      {
+        "keyword": "others",
+        "score": 0.092,
+        "type": "word"
+      }
+    ],
+    "73": [
+      {
+        "keyword": "order",
+        "score": 0.5604,
+        "type": "word"
+      },
+      {
+        "keyword": "preaching",
+        "score": 0.506,
+        "type": "word"
+      },
+      {
+        "keyword": "service",
+        "score": 0.3757,
+        "type": "word"
+      },
+      {
+        "keyword": "required",
+        "score": 0.2802,
+        "type": "word"
+      },
+      {
+        "keyword": "preaching preaching",
+        "score": 0.261,
+        "type": "phrase"
+      },
+      {
+        "keyword": "tells",
+        "score": 0.2462,
+        "type": "word"
+      },
+      {
+        "keyword": "fight",
+        "score": 0.2149,
+        "type": "word"
+      },
+      {
+        "keyword": "completely",
+        "score": 0.1878,
+        "type": "word"
+      }
+    ]
+  },
+  "keyword_trends": {
+    "consistent_keywords": {},
+    "trending_keywords": {},
+    "total_unique_keywords": 0,
+    "keyword_density": 0.0
+  },
+  "extraction_metadata": {
+    "method": "tfidf",
+    "total_global_keywords": 9,
+    "blocks_analyzed": 73,
+    "extraction_timestamp": null
+  }
+}

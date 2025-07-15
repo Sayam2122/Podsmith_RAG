@@ -1,0 +1,37 @@
+{
+  "session_id": "698e6394",
+  "session_name": "session_20250713_050708_698e6394",
+  "session_dir": "output\\sessions\\session_20250713_050708_698e6394",
+  "audio_file": "test4.mp3",
+  "created_at": "2025-07-13T05:07:08.814919",
+  "status": "initialized",
+  "completed_steps": [
+    "audio_conversion",
+    "transcription",
+    "diarization",
+    "text_emotions",
+    "audio_emotions",
+    "semantic_segmentation",
+    "summarization",
+    "keyword_extraction",
+    "validation",
+    "pipeline"
+  ],
+  "failed_steps": [],
+  "processing_metadata": {
+    "transcription": {
+      "processing_time": 1328.5398359298706
+    },
+    "pipeline": {
+      "completion_time": "2025-07-13T06:07:10.753554",
+      "total_processing_time": 3601.9396362304688,
+      "step_timings": {
+        "audio_conversion": 20.704890251159668,
+        "transcription": 1328.5398359298706,
+        "diarization": 1051.4706418514252,
+        "emotion_detection": 1113.5761210918427,
+        "total_pipeline": 3601.9396362304688
+      }
+    }
+  }
+}
